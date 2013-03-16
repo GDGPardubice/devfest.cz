@@ -10,52 +10,49 @@ Místo
 <section id="location">
 	<div class="row callouts">
 		<div class="span6">
-			<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.cz/maps?q=Technick%C3%A1+4&amp;ie=UTF8&amp;hq=&amp;hnear=Technick%C3%A1+1902%2F4,+160+00+Praha&amp;t=m&amp;brcurrent=5,0,0&amp;source=embed&amp;ll=50.108855,14.392519&amp;spn=0.019266,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><a href="https://maps.google.cz/maps?q=Technick%C3%A1+4&amp;ie=UTF8&amp;hq=&amp;hnear=Technick%C3%A1+1902%2F4,+160+00+Praha&amp;t=m&amp;brcurrent=5,0,0&amp;source=embed&amp;ll=50.108855,14.392519&amp;spn=0.019266,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left"><span class="icon-map-marker"></span> Zvětšit mapu</a>
+			<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.cz/maps?ie=UTF8&amp;cid=4257468295350367351&amp;q=Fakulta+elektroniky+a+informatiky&amp;gl=CZ&amp;t=m&amp;brcurrent=5,0,0&amp;hl=cs&amp;view=map&amp;source=embed&amp;ll=50.041872,15.769415&amp;spn=0.019293,0.036564&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><a href="https://maps.google.cz/maps?ie=UTF8&amp;cid=4257468295350367351&amp;q=Fakulta+elektroniky+a+informatiky&amp;gl=CZ&amp;t=m&amp;brcurrent=5,0,0&amp;hl=cs&amp;view=map&amp;source=embed&amp;ll=50.041872,15.769415&amp;spn=0.019293,0.036564&amp;z=14&amp;iwloc=A"><span class="icon-map-marker"></span>Zvětšit mapu</a>
 		</div>
 		<div class="span6">
-			<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.cz/maps?q=Technick%C3%A1+4&amp;layer=c&amp;sll=50.102921,14.391690&amp;cbp=13,359.61,,0,-1.7&amp;cbll=50.102931,14.391362&amp;brcurrent=5,0,0&amp;ie=UTF8&amp;hq=&amp;hnear=Technick%C3%A1+1902%2F4,+160+00+Praha&amp;t=m&amp;panoid=txBo0E3dDfCKG7z3BICn2A&amp;source=embed&amp;ll=50.097418,14.39136&amp;spn=0.019271,0.036478&amp;z=14&amp;output=svembed"></iframe><a href="https://maps.google.cz/maps?q=Technick%C3%A1+4&amp;layer=c&amp;sll=50.102921,14.391690&amp;cbp=13,359.61,,0,-1.7&amp;cbll=50.102931,14.391362&amp;brcurrent=5,0,0&amp;ie=UTF8&amp;hq=&amp;hnear=Technick%C3%A1+1902%2F4,+160+00+Praha&amp;t=m&amp;panoid=txBo0E3dDfCKG7z3BICn2A&amp;source=embed&amp;ll=50.097418,14.39136&amp;spn=0.019271,0.036478&amp;z=14" style="color:#0000FF;text-align:left"><span class="icon-map-marker"></span> Zvětšit StreetView</a>
+			<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.cz/maps?ie=UTF8&amp;cid=4257468295350367351&amp;q=Fakulta+elektroniky+a+informatiky&amp;gl=CZ&amp;t=m&amp;brcurrent=5,0,0&amp;hl=cs&amp;view=map&amp;source=embed&amp;layer=c&amp;cbll=50.033573,15.767354&amp;panoid=B5X1VCPBflMBVo_xgGkXbw&amp;cbp=13,124.26,,0,-7.89&amp;ll=50.032201,15.767344&amp;spn=0.004824,0.00912&amp;z=16&amp;output=svembed"></iframe><a href="https://maps.google.cz/maps?ie=UTF8&amp;cid=4257468295350367351&amp;q=Fakulta+elektroniky+a+informatiky&amp;gl=CZ&amp;t=m&amp;brcurrent=5,0,0&amp;hl=cs&amp;view=map&amp;source=embed&amp;layer=c&amp;cbll=50.033573,15.767354&amp;panoid=B5X1VCPBflMBVo_xgGkXbw&amp;cbp=13,124.26,,0,-7.89&amp;ll=50.032201,15.767344&amp;spn=0.004824,0.00912&amp;z=16"><span class="icon-map-marker"></span>Zvětšit StreetView</a>
 		</div>		
 	</div>
 	<div class="row callouts">
 		<div class="span3 when">
 			<h2>Kdy?</h2>
 			<p>
-		        V sobotu <strong>10. listopadu</strong>.<br />
+		        V sobotu <strong>27. dubna</strong>.<br />
 		        Od 8:30 do 20:00.
 		     </p>
 		</div>
 		<div class="span3 where">
 			<h2>Kde?</h2>
 		  	<p>
-		        V prostorách ČVUT - <strong>Fakulty strojní</strong>, <br />
-		        v Praze v Dejvicích.
+		        V prostorách <strong>Univerzity Pardubice &ndash; Fakulty elektrotechniky a informatiky</strong>.
 	      	</p>
 	      	<address>
-	        	Technická 4<br />
-	        	Praha 6&nbsp;&nbsp;166 07
+	        	Čsl. Legií 565<br />
+	        	Pardubice&nbsp;&nbsp;530 02
 	      	</address>
 	      	<p>
-		        GPS: 50°6'11.784"N, 14°23'29.288"E
+		        GPS: 50°2'0.36"N, 15°46'2.28"E
 	      	</p>	      	
 		</div>
 		<div class="span3 vehicle">
 			<h2>Doprava</h2>  
-			<ul>
-		    	<li>Metro: <strong>Dejvická</strong> - Konečná stanice linky A</li>
-				<li>Tramvajová zastávka <strong>Dejvická</strong> - linky 5, 20, 26, 51</li>		
-			</ul>
-		    <h3>Z hlavního nádraží:</h3>
-		    <ul>
-		    	<li>Tramvají č. 26 na stanici <strong>Dejvická</strong> (21 minut)</li>
-				<li>Metrem do stanice Muzeum – přestup na linku A do stanice <strong>Dejvická</strong> (15 minut)</li>		
-			</ul>
+			<p>Pokud přijedete vlakem či autobusem, je nejjednodušší dorazit pěšky.</p>
+			<p>
+				Pokud se ocitnete kdekoliv jinde v Pardubicích, pokuste se dopravit pomocí MHD na zastávky 
+				<strong>Ul. 17.&nbsp;listopadu</strong>, <strong>Palackého</strong> nebo <strong>Masarykovo náměstí</strong>.
+				Dostat se z nich na akci je pak otázkou chviličky.
+			</p>
 		</div>
 		<div class="span3 parking">
 			<h2>Parkování</h2>  
 			<ul>
-		    	<li>Šetřete přírodu, využijte MHD.</li>
-				<li>Placené parkování na ulici <strong>Šolínová</strong></li>
-				<li>Punkové parkování na ulici <strong>Verdunská</strong></li>			
+		    	<li>Šetřete přírodu, využijte hromadnou dopravu.</li>
+				<li>Placené parkování přímo na náměstí <strong>Čsl. legií</strong> a přilehlých ulicích.</li>
+				<li>Parkování zdarma u starého nádraží v ulici <strong><a href="https://maps.google.com/maps?q=50.03208,15.765279&amp;num=1&amp;t=m&amp;z=19">Hlaváčova</a></strong> (malé parkoviště).</li>
+				<li>Parkování zdarma u <strong><a href="https://maps.google.com/maps?q=50.033979,15.753939&amp;num=1&amp;t=m&amp;z=18">Alberta</a></strong> (jistota, ale dál než nádraží).</li>
 			</ul>
 		</div>
 	</div>

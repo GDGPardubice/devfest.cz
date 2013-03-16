@@ -5,9 +5,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {% capture page_title %}{% if page.title %}{{ page.title }} | {%endif%}DevFest Praha 2012{% endcapture %}
+  {% capture page_title %}{% if page.title %}{{ page.title }} | {%endif%}DevFest Pardubice 2013{% endcapture %}
   <title>{{ page_title }}</title> 
-  <meta itemprop="name" content="DevFest Praha 2012">
+  <meta itemprop="name" content="DevFest Pardubice 2013">
   <meta itemprop="image" content="/imgs/devfest-logo.png">
   <meta itemprop="description" content="Podzimní vývojářský festival">
 
@@ -35,7 +35,7 @@
 	})();
   </script>
 
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 </head>
 <body class="{{ page.cssClass }}">
@@ -58,23 +58,13 @@
             <span class="icon-bar"></span>
           </a>
           <a class="brand" href="/" title="DevFest - Podzimní vývojářský festival">
-            {% if page.type == "home" %}
               <img class="pull-left" src="/imgs/devfest-arrow.png" width="18" height="30" alt="DevFest arrow">             
-            {%else%} 
-              <img class="pull-left" src="/imgs/devfest-logo-small.png" width="163" height="30" alt="DevFest Praha">
-            {%endif%}
           </a>      
           <div class="nav-collapse">
             <ul class="nav">
               <li>
                 <a href="/">Úvod</a>   
               </li>
-              <li>
-                <a href="/recnici/">Řečníci</a>                  
-              </li> 
-              <li>
-                <a href="/program/">Program</a>                  
-              </li> 
               <li>
                 <a href="/misto/">Místo</a>                  
               </li> 
@@ -90,9 +80,6 @@
                 <a href="https://twitter.com/share" class="twitter-share-button" data-via="gughackathon" data-lang="cs" data-count="none">Tweet</a>                
               </li> 
               <li class="share-button gplus"><div class="g-plusone" data-size="medium" data-callback="gplus_pressed" data-annotation="none"></div></li>
-              <li>
-                <a class="agnes-icon visible-phone visible-tablet" href="/agnes/">Agnes</a>
-              </li>
             </ul>
           </div><!--/.nav-collapse -->    
         </div>
