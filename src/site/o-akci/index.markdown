@@ -43,7 +43,7 @@ title: "O akci"
 				    </div>
 				</div>
 				<div class="organizator">
-					<a href="https://plus.google.com/u/0/107708283520313020793/posts">
+					<a href="https://plus.google.com/104216647522997576426/posts">
 				      <img src="/data/imgs/organizatori/vit-pleskot.jpg" width="150" height="150" alt="Vít Pleskot" />
 				    </a>
 				    <div class="info">
@@ -51,7 +51,7 @@ title: "O akci"
 				    </div>
 				</div>
 				<div class="organizator">
-					<a href="https://plus.google.com/104216647522997576426/posts">
+					<a href="https://plus.google.com/116469607435844179978/posts">
 				      <img src="/data/imgs/organizatori/jiri-cadek.jpg" width="150" height="150" alt="Jiří Čadek" />
 				    </a>
 				    <div class="info">
