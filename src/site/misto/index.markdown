@@ -50,9 +50,9 @@ Místo
 			<h2>Parkování</h2>  
 			<ul>
 		    	<li>Šetřete přírodu, využijte hromadnou dopravu.</li>
-				<li>Placené parkování přímo na náměstí <strong>Čsl. legií</strong> a přilehlých ulicích.</li>
-				<li>Parkování zdarma u starého nádraží v ulici <strong><a href="https://maps.google.com/maps?q=50.03208,15.765279&amp;num=1&amp;t=m&amp;z=19">Hlaváčova</a></strong> (malé parkoviště).</li>
-				<li>Parkování zdarma u <strong><a href="https://maps.google.com/maps?q=50.033979,15.753939&amp;num=1&amp;t=m&amp;z=18">Alberta</a></strong> (jistota, ale dál než nádraží).</li>
+				<li>Parkování přímo na náměstí <strong>Čsl. legií</strong> a přilehlých ulicích.</li>
+				<li>Parkování u starého nádraží v ulici <strong><a href="https://maps.google.com/maps?q=50.03208,15.765279&amp;num=1&amp;t=m&amp;z=19">Hlaváčova</a></strong>.</li>
+				<li>Parkování u <strong><a href="https://maps.google.com/maps?q=50.033979,15.753939&amp;num=1&amp;t=m&amp;z=18">Alberta</a></strong> (jistota, ale dál než nádraží).</li>
 			</ul>
 		</div>
 	</div>
