@@ -4,53 +4,26 @@ title: "Řečníci"
 ---
 
 
-Řečníci na DevFestu Praha 2012
+Řečníci na DevFestu Pardubice 2013
 ==============================
 
 <section id="speakers">
-  <div class="speaker android">
-    <a href="https://plus.google.com/115995639636688350464/posts">
-      <img src="/data/imgs/recnici/rich-hyndman.jpg" width="200" height="250" alt="Rich Hyndman" />
-    </a>
-    <div class="info">
-      <h2>Rich Hyndman</h2>
-      <h3>What's New in Android</h3>
-    </div>
-  </div>
-  <div class="speaker android">
-    <a href="https://plus.google.com/118292708268361843293/posts">
-      <img src="/data/imgs/recnici/nick-butcher.jpg" width="200" height="250" alt="Nick Butcher" />
-    </a>
-    <div class="info">
-      <h2>Nick Butcher</h2>
-      <h3>Creating Modern Android UIs</h3>
-    </div>
-  </div>  
-  <div class="speaker web">
-    <a href="https://plus.google.com/117663020319348671498/posts">
-      <img src="/data/imgs/recnici/vojta-jina.jpg" width="200" height="250" alt="Vojta Jína" />
-    </a>
-    <div class="info">
-      <h2>Vojta Jína</h2>
-      <h3>Building awesome client-side web apps with AngularJS</h3>
-    </div>
-  </div>
-  <div class="speaker android">
-    <a href="https://plus.google.com/+Jakub%C4%8C%C3%AD%C5%BEek/posts">
-      <img src="/data/imgs/recnici/jakub-cizek.jpg" width="200" height="250" alt="Jakub Čížek" />
-    </a>
-    <div class="info">
-      <h2>Jakub Čížek</h2>
-      <h3>Jak jsem díky Androidu zaměřil milion českých Wi-Fi sítí</h3>
-    </div>
-  </div>
   <div class="speaker other">
-    <a href="https://plus.google.com/106378848135270560799/posts">
-      <img src="/data/imgs/recnici/frantisek-fuka.jpg" width="200" height="250" alt="František Fuka" />
+    <a href="https://plus.google.com/116248355703511835235/posts">
+      <img src="/data/imgs/recnici/margarita-manterola.png" width="200" height="250" alt="Margarita Manterola" />
     </a>
     <div class="info">
-      <h2>František Fuka</h2>
-      <h3>Jak funguje hudební harmonie a jak skládat hudbu z geekovsko-matematického hlediska</h3>
+      <h2>Margarita Manterola</h2>
+      <h3>Code reviews in Google</h3>
+    </div>
+  </div>
+  <div class="speaker android">
+    <a href="https://plus.google.com/117190320619563188760/posts">
+      <img src="/data/imgs/recnici/pavel-lahoda.png" width="200" height="250" alt="Pavel Lahoda" />
+    </a>
+    <div class="info">
+      <h2>Pavel Lahoda</h2>
+      <h3>Improving Android Experience for both Users and Developers</h3>
     </div>
   </div>
   <div class="speaker web">
@@ -59,206 +32,87 @@ title: "Řečníci"
     </a>
     <div class="info">
       <h2>Daniel Steigerwald</h2>
-      <h3>TodoMVC v Este.js</h3>
+      <h3>Google Closure Tools vs. ostatní knihovny a frameworky</h3>
     </div>
   </div>
   <div class="speaker other">
-    <a href="https://plus.google.com/116417566983382224278/posts">
-      <img src="/data/imgs/recnici/vladimir-trebicky.jpg" width="200" height="250" alt="Vladimír Třebický" />
+    <a href="https://plus.google.com/116686511632701626203/posts">
+      <img src="/data/imgs/recnici/ales-roubicek.png" width="200" height="250" alt="Aleš Roubíček" />
     </a>
     <div class="info">
-      <h2>Vladimír Třebický</h2>
-      <h3>MapReduce</h3>
+      <h2>Aleš Roubíček</h2>
+      <h3>Reaktivní programování</h3>
     </div>
   </div>
   <div class="speaker other">
-    <a href="https://plus.google.com/111481300807306128237/posts">
-      <img src="/data/imgs/recnici/jiri-knesl.jpg" width="200" height="250" alt="Jiří Knesl" />
+    <a href="https://plus.google.com/107521513699425693002/posts">
+      <img src="/data/imgs/recnici/danut-enachioiu.png" width="200" height="250" alt="Danut Enachioiu" />
     </a>
     <div class="info">
-      <h2>Jiří Knesl</h2>
-      <h3>SprintMethod</h3>
+      <h2>Danut Enachioiu</h2>
+      <h3>OAuth</h3>
     </div>
   </div>
   <div class="speaker web">
-    <a href="https://plus.google.com/118203152533797031951/posts">
-      <img src="/data/imgs/recnici/radek-pavlicek.jpg" width="200" height="250" alt="Radek Pavlíček" />
+    <a href="https://plus.google.com/113127038390856514619/posts">
+      <img src="/data/imgs/recnici/michal-spacek.png" width="200" height="250" alt="Michal Špaček" />
     </a>
     <div class="info">
-      <h2>Radek Pavlíček</h2>
-      <h3>Přístupnost HTML5 v kombinaci s WAI-ARIA</h3>
+      <h2>Michal Špaček</h2>
+      <h3>Co nového se urodilo na poli webové bezpečnosti</h3>
     </div>
   </div>
   <div class="speaker other">
-    <a href="https://plus.google.com/115748350099126853184/posts">
-      <img src="/data/imgs/recnici/ivan-kutil.jpg" width="200" height="250" alt="Ivan Kutil" />
+    <a href="https://plus.google.com/110240736663057524144/posts">
+      <img src="/data/imgs/recnici/milan-matys.png" width="200" height="250" alt="Milan Matys" />
     </a>
     <div class="info">
-      <h2>Ivan Kutil</h2>
-      <h3>Zkušenosti s Chrome Extension aneb jak 3Dnator! získal 85 000+ uživatelů</h3>
-    </div>
-  </div>
-  <div class="speaker other">
-    <a href="https://plus.google.com/111453401774376620498/posts">
-      <img src="/data/imgs/recnici/richard-fridrich.jpg" width="200" height="250" alt="Richard Fridrich" />
-    </a>
-    <div class="info">
-      <h2>Richard Fridrich</h2>
-      <h3>Rozšírenia pre Chrome rýchlo a bezbolestne</h3>
-    </div>
-  </div>
-  <div class="speaker web">
-    <a href="https://plus.google.com/110742501143171151210/posts">
-      <img src="/data/imgs/recnici/ladislav-thon.jpg" width="200" height="250" alt="Ladislav Thon" />
-    </a>
-    <div class="info">
-      <h2>Ladislav Thon</h2>
-      <h3>Oh my Dart!</h3>
-    </div>
-  </div>
-  <div class="speaker web">
-    <a href="https://plus.google.com/105785308934677545572/posts">
-      <img src="/data/imgs/recnici/tomas-zverina.jpg" width="200" height="250" alt="Tomáš Zvěřina" />
-    </a>
-    <div class="info">
-      <h2>Tomáš Zvěřina</h2>
-      <h3>Objectify pro AppEngine</h3>
-    </div>
-  </div>
-  <div class="speaker web">
-    <a href="https://plus.google.com/113391188023467233438/posts">
-      <img src="/data/imgs/recnici/ladislav-prskavec.jpg" width="200" height="250" alt="Ladislav Prskavec" />
-    </a>
-    <div class="info">
-      <h2>Ladislav Prskavec</h2>
-      <h3>Postavte si zeď mezi svoje vývojáře</h3>
-    </div>
-  </div>
-  <div class="speaker other">
-    <a href="https://plus.google.com/102815305122253501866/posts">
-      <img src="/data/imgs/recnici/marek-sebera.jpg" width="200" height="250" alt="Marek Šebera" />
-    </a>
-    <div class="info">
-      <h2>Marek Sebera</h2>
-      <h3>Vývoj variabilních extensions pro Google Chrome, Firefox, IE</h3>
-    </div>
-  </div>
-  <div class="speaker other">
-    <a href="https://twitter.com/rdresler">
-      <img src="/data/imgs/recnici/robert-dresler.jpg" width="200" height="250" alt="Robert Dresler" />
-    </a>
-    <div class="info">
-      <h2>Robert Dresler</h2>
-      <h3>Urychlovače vývojářova profesního růstu</h3>
-    </div>
-  </div>
-  <div class="speaker lab">
-    <a href="https://plus.google.com/111783114889748547827/posts">
-      <img src="/data/imgs/recnici/filip-hracek.jpg" width="200" height="250" alt="Filip Hráček" />
-    </a>
-    <div class="info">
-      <h2>Filip Hráček</h2>
-      <h3>Dart CodeLab</h3>
-    </div>
-  </div>
-  <div class="speaker lab">
-    <a href="https://plus.google.com/109217431653727417114/posts">
-      <img src="/data/imgs/recnici/pavel-ondra.jpg" width="200" height="250" alt="Pavel Ondra" />
-    </a>
-    <div class="info">
-      <h2>Pavel Ondra</h2>
-      <h3>Accessibility CodeLab</h3>     
-    </div>
-  </div>
-  <div class="speaker other">
-    <a href="http://www.myspace.com/tomasreindl">
-      <img src="/data/imgs/recnici/tomas-reindl.jpg" width="200" height="250" alt="Tomáš Reindl" />
-    </a>
-    <div class="info">
-      <h2>Tomáš Reindl</h2>
-      <h3>OMNION aneb jednočlenný sebe-smyčkovací orchestr</h3>
-    </div>
-  </div>
-  <div class="speaker other">
-    <a href="https://plus.google.com/105770923965008932478/posts">
-      <img src="/data/imgs/recnici/vojtech-vitek.jpg" width="200" height="250" alt="Vojtěch Vítek" />
-    </a>
-    <div class="info">
-      <h2>Vojtěch Vítek</h2>
-      <h3>OpenShift as a Cloud backend for your Mobile Apps</h3>
-    </div>
-  </div>
-  <div class="speaker android">
-    <a href="https://plus.google.com/u/0/116088533685577893615/posts">
-      <img src="/data/imgs/recnici/petr-nalevka.jpg" width="200" height="250" alt="Petr Nálevka" />
-    </a>
-    <div class="info">
-      <h2>Petr Nálevka</h2>
-      <h3>Spíme s Androidem</h3>
-    </div>
-  </div>
-  <div class="speaker web">
-    <a href="http://www.linkedin.com/pub/ji%C5%99%C3%AD-bachel/53/733/254">
-      <img src="/data/imgs/recnici/jiri-bachel.jpg" width="200" height="250" alt="Jiří Bachel" />
-    </a>
-    <div class="info">
-      <h2>Jiří Bachel</h2>
-      <h3>Sledování, Chrome vs Firefox a HTML5</h3>
-    </div>
-  </div>
-  <div class="speaker web">
-    <a href="https://plus.google.com/103679889782528149555/about">
-      <img src="/data/imgs/recnici/ondrej-kucera.jpg" width="200" height="250" alt="Ondřej Kučera" />
-    </a>
-    <div class="info">
-      <h2>Ondřej Kučera</h2>
-      <h3>Nebojme se XML</h3>
-    </div>
-  </div>
-  <div style="clear: left;" ></div> 
-  <div class="speaker failcon">
-    <a href="http://www.kareljanecek.com/">
-      <img src="/data/imgs/recnici/karel-janecek.jpg" width="200" height="250" alt="Karel Janeček" />
-    </a>
-    <div class="info">
-      <h2>Karel Janeček</h2>
-      <h3>#FailCon</h3>
-    </div>
-  </div>
-  <div class="speaker failcon">
-    <a href="https://twitter.com/TomasHajzler">
-      <img src="/data/imgs/recnici/tomas-hajzler.jpg" width="200" height="250" alt="Tomáš Hajzler" />
-    </a>
-    <div class="info">
-      <h2>Tomáš Hajzler</h2>
-      <h3>#FailCon</h3>
-    </div>
-  </div>
-  <div class="speaker failcon">
-    <a href="https://twitter.com/VitVrba">
-      <img src="/data/imgs/recnici/vit-vrba.jpg" width="200" height="250" alt="Vít Vrba" />
-    </a>   
-    <div class="info">
-      <h2>Vít Vrba</h2>
-      <h3>#FailCon</h3>
-    </div>
-  </div>
-  <div class="speaker failcon">
-    <a href="https://plus.google.com/114785508691464238375/posts">
-      <img src="/data/imgs/recnici/pavel-sodomka.jpg" width="200" height="250" alt="Pavel Sodomka" />
-    </a>   
-    <div class="info">
-      <h2>Pavel Sodomka</h2>
-      <h3>#FailCon</h3>
-    </div>
-  </div>
-  <div class="speaker failcon">
-    <a href="https://twitter.com/obartos">
-      <img src="/data/imgs/recnici/ondrej-bartos.jpg" width="200" height="250" alt="Ondřej Bartoš" />
-    </a>   
-    <div class="info">
-      <h2>Ondřej Bartoš</h2>
-      <h3>#FailCon</h3>
+      <h2>Milan Matys</h2>
+      <h3>Situační Geoprostorový Systém</h3>
     </div>
   </div>
 </section>
+<div style="clear: both;"></div>
+
+Přihlášené Lighting Talky na DevFest Pardubice 2013
+===================================================
+
+Chceš také něco říct na DevFestu? Máš možnost se zapojit prostřednictvím Lighting Talku! Stačí vyplnit <a href="https://docs.google.com/forms/d/1Zg8fYXnuRybhax6oojXM1CQ_PlC_9-YR-_G0EvcqPKk/viewform">registrační formulář</a>.
+
+<div id="program">
+  <div class="program-item row blocks">
+    <div class="program-item-time span2">
+      <span class="time">Lighting Talks</span>
+      <div class="border">
+        <span class="blue"></span>
+        <span class="red"></span>
+        <span class="yellow"></span>
+        <span class="green"></span>
+      </div>
+    </div>
+    <div class="program-item-text span10">
+      <div class="row">
+        <div class="span2 other">
+          <div class="inside-1">
+            <div class="inside-2">
+              <h2>Pavel Jetenský</h2>
+              <p>Jak na Google protocol buffers ve světě chytrých telefonů a v čem předčí JSON</p>
+            </div>
+          </div>        
+        </div>
+        <div class="span2 web">
+          <div class="inside-1">
+            <div class="inside-2">
+              <h2>Tadeáš Kříž</h2>
+              <p>Warez z pohledu vývojáře</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+GUGCamp
+=======
+Máš Android aplikaci a chtěl bys ji představit širší veřejnosti? Stačí vyplnit <a href="https://docs.google.com/forms/d/1Zg8fYXnuRybhax6oojXM1CQ_PlC_9-YR-_G0EvcqPKk/viewform">registrační formulář</a>.
