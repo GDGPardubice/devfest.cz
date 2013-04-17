@@ -64,6 +64,7 @@ Program
 						<div class="inside-2">
 							<h2>Margarita Manterola</h2>
 							<p>Code reviews in Google</p>
+							<span class="lang">EN</span>
 							<a href="https://plus.google.com/116248355703511835235/posts">
 								<img src="/data/imgs/recnici/margarita-manterola-small.png" width="40" height="40" alt="Margarita Manterola" />
 							</a>
@@ -92,6 +93,7 @@ Program
 						<div class="inside-2">
 							<h2>Aleš Roubíček</h2>
 							<p>Reaktivní programování</p>							
+							<span class="lang">CS</span>
 							<a href="https://plus.google.com/116686511632701626203/posts">
 								<img src="/data/imgs/recnici/ales-roubicek-small.png" width="40" height="40" alt="Aleš Roubíček" />
 							</a>
@@ -134,6 +136,7 @@ Program
 						<div class="inside-2">
 							<h2>Michal Špaček</h2>
 							<p>Co nového se urodilo na poli webové bezpečnosti</p>							
+							<span class="lang">CS</span>
 							<a href="https://plus.google.com/113127038390856514619/posts">
 								<img src="/data/imgs/recnici/michal-spacek-small.png" width="40" height="40" alt="Michal Špaček" />
 							</a>
@@ -161,7 +164,8 @@ Program
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Danut Enachioiu</h2>
-							<p>OAuth</p>							
+							<p>OAuth</p>
+							<span class="lang">EN</span>							
 							<a href="https://plus.google.com/107521513699425693002/posts">
 								<img src="/data/imgs/recnici/danut-enachioiu-small.png" width="40" height="40" alt="Danut Enachioiu" />
 							</a>
@@ -173,7 +177,8 @@ Program
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Milan Matys</h2>
-							<p>Warez z pohledu vývojáře</p>			
+							<p>Situační Geoprostorový Systém</p>
+							<span class="lang">CS</span>			
 							<a href="https://plus.google.com/110240736663057524144/posts">
 								<img src="/data/imgs/recnici/milan-matys-small.png" width="40" height="40" alt="Milan Matys" />
 							</a>
@@ -197,11 +202,12 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<div class="span2 other">
+				<div class="span2 android">
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Pavel Lahoda</h2>
 							<p>Improving Android Experience for both Users and Developers</p>						
+							<span class="lang">CS</span>
 							<a href="https://plus.google.com/117190320619563188760/posts">
 								<img src="/data/imgs/recnici/pavel-lahoda-small.png" width="40" height="40" alt="Pavel Lahoda" />
 							</a>
@@ -209,7 +215,7 @@ Program
 						</div>
 					</div>					
 				</div>
-				<div class="span2 web">
+				<div class="span2 dev">
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Lighting Talks</h2>
@@ -239,6 +245,7 @@ Program
 						<div class="inside-2">
 							<h2>Daniel Steigerwald</h2>
 							<p>Google Closure Tools versus ostatní knihovny a frameworky</p>
+							<span class="lang">CS</span>
 							<a href="https://plus.google.com/101409281065555048852/posts">
 								<img src="/data/imgs/recnici/daniel-steigerwald-small.jpg" width="40" height="40" alt="Daniel Steigerwald" />
 							</a>
