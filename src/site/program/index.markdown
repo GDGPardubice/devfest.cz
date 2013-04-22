@@ -62,15 +62,15 @@ Program
 				<div class="span2 other">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Margarita Manterola</h2>
-							<p>Code reviews in Google</p>
-							<span class="lang">EN</span>
-							<a href="https://plus.google.com/116248355703511835235/posts">
-								<img src="/data/imgs/recnici/margarita-manterola-small.png" width="40" height="40" alt="Margarita Manterola" />
+							<h2>Danut Enachioiu</h2>
+							<p>OAuth</p>
+							<span class="lang">EN</span>							
+							<a href="https://plus.google.com/107521513699425693002/posts">
+								<img src="/data/imgs/recnici/danut-enachioiu-small.png" width="40" height="40" alt="Danut Enachioiu" />
 							</a>
 							<span class="room pull-left visible-phone">Hard Dev Stage</span>
 						</div>
-					</div>				
+					</div>					
 				</div>
 			</div>
 		</div>
@@ -88,14 +88,14 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<div class="span2 other">
+				<div class="span2 android">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Aleš Roubíček</h2>
-							<p>Reaktivní programování</p>							
+							<h2>Pavel Lahoda</h2>
+							<p>Improving Android Experience for both Users and Developers</p>						
 							<span class="lang">CS</span>
-							<a href="https://plus.google.com/116686511632701626203/posts">
-								<img src="/data/imgs/recnici/ales-roubicek-small.png" width="40" height="40" alt="Aleš Roubíček" />
+							<a href="https://plus.google.com/117190320619563188760/posts">
+								<img src="/data/imgs/recnici/pavel-lahoda-small.png" width="40" height="40" alt="Pavel Lahoda" />
 							</a>
 							<span class="room pull-left visible-phone">Hard Dev Stage</span>
 						</div>
@@ -163,11 +163,11 @@ Program
 				<div class="span2 other">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Danut Enachioiu</h2>
-							<p>OAuth</p>
-							<span class="lang">EN</span>							
-							<a href="https://plus.google.com/107521513699425693002/posts">
-								<img src="/data/imgs/recnici/danut-enachioiu-small.png" width="40" height="40" alt="Danut Enachioiu" />
+							<h2>Aleš Roubíček</h2>
+							<p>Reaktivní programování</p>							
+							<span class="lang">CS</span>
+							<a href="https://plus.google.com/116686511632701626203/posts">
+								<img src="/data/imgs/recnici/ales-roubicek-small.png" width="40" height="40" alt="Aleš Roubíček" />
 							</a>
 							<span class="room pull-left visible-phone">Hard Dev Stage</span>
 						</div>
@@ -202,18 +202,18 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<div class="span2 android">
+				<div class="span2 other">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Pavel Lahoda</h2>
-							<p>Improving Android Experience for both Users and Developers</p>						
-							<span class="lang">CS</span>
-							<a href="https://plus.google.com/117190320619563188760/posts">
-								<img src="/data/imgs/recnici/pavel-lahoda-small.png" width="40" height="40" alt="Pavel Lahoda" />
+							<h2>Margarita Manterola</h2>
+							<p>Code reviews in Google</p>
+							<span class="lang">EN</span>
+							<a href="https://plus.google.com/116248355703511835235/posts">
+								<img src="/data/imgs/recnici/margarita-manterola-small.png" width="40" height="40" alt="Margarita Manterola" />
 							</a>
 							<span class="room pull-left visible-phone">Hard Dev Stage</span>
 						</div>
-					</div>					
+					</div>				
 				</div>
 				<div class="span2 dev">
 					<div class="inside-1">
