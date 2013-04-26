@@ -1225,8 +1225,12 @@ article.homepage h1 .big {
     }
 
     .logos li a {
-        margin: 0;
+        margin: 0 0 30px 0;
     };
+}
+
+.logos h2 {
+	margin-bottom: 30px;
 }
 
 .logos .gug a {
@@ -1244,6 +1248,55 @@ article.homepage h1 .big {
     background: transparent url("../imgs/partners/vendavo.png") top left no-repeat;
     width: 275px;
     height: 75px;
+}
+
+.logos .fei a {
+    background: transparent url("../imgs/partners/fei.png") top left no-repeat;
+    width: 174px;
+    height: 75px;
+}
+
+.logos .wedos a {
+    background: transparent url("../imgs/partners/wedos.png") top left no-repeat;
+    width: 65px;
+    height: 75px;
+}
+
+.logos .ebrana a {
+    background: transparent url("../imgs/partners/ebrana.png") top left no-repeat;
+    width: 276px;
+    height: 49px;
+}
+
+.logos .trikator a {
+    background: transparent url("../imgs/partners/trikator.png") top left no-repeat;
+    width: 273px;
+    height: 55px;
+}
+
+.logos .svetandroida a {
+    background: transparent url("../imgs/partners/svet_androida.png") top left no-repeat;
+    width: 148px;
+    height: 75px;
+    margin-left: 250px;
+}
+
+.logos .androidmarket a {
+    background: transparent url("../imgs/partners/androidmarket.png") top left no-repeat;
+    width: 275px;
+    height: 75px;
+}
+
+.logos .dotekomanie a {
+    background: transparent url("../imgs/partners/dotekomanie.png") top left no-repeat;
+    width: 275px;
+    height: 75px;
+}
+
+.logos .webitech a {
+    background: transparent url("../imgs/partners/webitech.png") top left no-repeat;
+    width: 275px;
+    height: 43px;
 }
 
 .logos a:hover,.logos a:hover {

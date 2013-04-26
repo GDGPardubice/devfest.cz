@@ -144,6 +144,19 @@ Program
 						</div>
 					</div>					
 				</div>
+				<div class="span2 other">
+					<div class="inside-1">
+						<div class="inside-2">
+							<h2>Danut Enachioiu</h2>
+							<p>Spanner</p>
+							<span class="lang">EN</span>							
+							<a href="https://plus.google.com/107521513699425693002/posts">
+								<img src="/data/imgs/recnici/danut-enachioiu-small.png" width="40" height="40" alt="Danut Enachioiu" />
+							</a>
+							<span class="room pull-left visible-phone">Chillout Stage</span>
+						</div>
+					</div>					
+				</div>
 			</div>
 		</div>
 	</div>
