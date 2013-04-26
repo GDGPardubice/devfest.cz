@@ -46,6 +46,10 @@ handlers:
   expiration: 7d
   upload: static/(.*\.woff)
 
+- url: /program
+  static_files: static/program/index.html
+  upload: static/index.html
+
 - url: (.*)/
   static_files: static\1/index.html
   upload: static/index.html
