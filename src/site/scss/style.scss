@@ -436,7 +436,12 @@ article.homepage {
     background: transparent url('../imgs/logos-google.png') top left no-repeat;  
     width: 176px;
   }
-  .google a:hover, .gug a:hover {
+  .dotekomanie a {
+    background: transparent url('../imgs/partners/dotekomanie.png') top left no-repeat;  
+    width: 420px;
+    height: 100px;
+  }
+  a:hover, a:hover {
     background-position: left bottom;
   }
 }
@@ -971,6 +976,15 @@ footer {
   }
 }
 
+/* quick fix for "comming soon" - maked some space around main message */
+.home h1 {
+  margin-top: 120px !important;
+}
+
+.home .motto {
+  margin-bottom: 170px !important;
+}
+/* end of quick fix  */
 @import "countdown";
 @import "carousel";
 @import "forkit";
