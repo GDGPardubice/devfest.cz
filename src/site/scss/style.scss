@@ -396,8 +396,10 @@ article.homepage {
     overflow: hidden;
   }
   ul {
-    margin: 0 auto;
     width: 500px;
+    overflow: auto;
+    margin: .5em auto 2em;
+    text-align: center;
     @media (max-width: 481px) {
       width: auto;
     }
@@ -411,7 +413,7 @@ article.homepage {
     }
     @media (min-width: 768px) {     
       padding: 0 20px;
-      float: left;
+      display: inline-block;
       a {
         margin: 0;
       }
@@ -426,7 +428,12 @@ article.homepage {
     background: transparent url('../imgs/logos-google.png') top left no-repeat;  
     width: 176px;
   }
-  .google a:hover, .gug a:hover {
+  .dotekomanie a {
+    background: transparent url('../imgs/logos-dotekomanie.png') top left no-repeat;  
+    width: 193px;
+    height: 43px;
+  }
+  .google a:hover, .gug a:hover, .dotekomanie a:hover {
     background-position: left bottom;
   }
 }

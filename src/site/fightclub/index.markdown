@@ -6,17 +6,30 @@ title: "FightClub"
 FightClub
 =========
 
-Kromě mnoha dalších věcí se na [**DevFestu 2012**](http://www.devfest.cz), představí poprvé v ČR FightClub.
+<img src="/imgs/fightclub.png" width="524" height="90" alt="FightClub" />
 
-*První pravidlo FightClubu: o FightClubu se nemluví (proto píšeme). <br />
-Druhé pravidlo FighClubu: pokud je to váš první FightClub, musíte být připraveni kódovat (a bude co).*
+**hashtag: #FightClubCZ**
 
-FightClub představuje souboj tří týmů ve vývoji aplikací na třech mobilních platformách - iOS, Android a Windows Phone (jedna platforma na jeden tým). Každý tým tvoří 2 programátoři praktikující PAIR programming, jeden počítač připojený na projektor a jeden "manažer/komentátor" (není nutné pair programming znát, FightClub je skvělá příležitost si ho v praxi vyzkoušet a osahat). 
+FightClub je **real-time souboj vývojářů mobilních aplikací**. V jedné místnosti proti sobě stojí dva týmy, dvě platformy, jedno zadání a jeden časový limit. Každý tým má jeden notebook a jeden projektor. V reálném čase, přímo před vašimi zraky, vytváří oba týmy mobilní aplikaci.
+ 
+FightClub je divácký sport, během kterého ani publikum nemusí zahálet. Již dříve mohlo publikum komentovat dění a pokládat komentátorům týmů dotazy. Navíc jsme vyslyšeli vaše náměty a letos bude, vůbec poprvé, mít publikum v sále možnost se (zcela dobrovolně a nepovinně) zapojit přímo i do samotného klání!
+ 
+FightClub má vždy jen jednoho vítěze, ale ve FightClubu není hlavní vyhrát, velkou ctí je i samotná účast. Právě účast ve FightClubu znamená mnohé o odvaze a kvalitách zúčastněných.
+ 
+V každém týmu jsou dva programátoři, jeden notebook a jeden komentátor, který přímo na akci komentuje a podporuje postup svého týmu.
+ 
+Nejde nám o “aplikace s hezkou grafikou”, mnohem důležitější jsou “aplikace s hezkou funkcionalitou”. Takže součástí týmů nebude grafik. Veškerou vizuální stránku bude mít na starosti samotný OS. **Žádný tým a žádná platforma nebude preferována na úkor ostatních**, sláva bude patřit všem a vítězům zejména.
+ 
+Otázka tedy zní - pustíte se neohroženě do boje na ostří kláves?
+ 
+<a href="http://goo.gl/tmBqRA" class="btn btn-success btn-large">Registrace týmu</a>
 
-Úkolem týmů bude během 90 minut postupovat zadáním s celkem 10 úlohami, které dohromady budou tvořit jednoduchou aplikaci. FightClub není o "aplikacích s hezkou grafikou" - FightClub je o "aplikacích s hezkou funkcionalitou" - resp. součástí týmů nebude grafik, aplikace se budou dělat jen s grafikou, kterou dodává OS. Žádný tým a žádná platforma nebude preferována na úkor ostatních, sláva bude patřit všem a vítězům zejména. 
+Těšíme se na vás!
 
-Výkony týmů budou ohodnoceny a na závěr povstane **jen jeden vítěz**!
 
-Otázka tedy zní - **pustíte se neohroženě do boje na ostří kláves**? 
+Minulé FightCluby
+-----------------
+ 
+Úplně první FightClub, ještě s trochu odlišnou koncepcí, měl premiéru na [**Pražském DevFestu 2012**](http://www.gug.cz/cs/akce/fightclub/terminy/devfest-2012), video z akce [**ke shlédnutí**](http://www.youtube.com/watch?v=NgjvVgyiut8).
 
-10.11., Praha, odpolední hodiny
+Druhý FightClub v ČR se odehrál letos na [**mDevCampu 2013**](http://www.gug.cz/cs/akce/fightclub/terminy/mdevcamp-2013), video z akce [**ke shlédnutí**](http://www.youtube.com/watch?v=2B7RYQ4q9Iw).

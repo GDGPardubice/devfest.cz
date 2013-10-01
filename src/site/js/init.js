@@ -30,7 +30,7 @@ $(document).ready(function(){
 
   /* Countdown */
   if ($('.homepage #countdown').size() > 0) {
-    $('#countdown').countdown(new Date("November 10, 2012 08:30:00"), function(event) {
+    $('#countdown').countdown(new Date("November 23, 2013 08:30:00"), function(event) {
       var $this = $(this);
       switch(event.type) {
         case "seconds":
