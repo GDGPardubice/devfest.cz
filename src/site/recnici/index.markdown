@@ -33,4 +33,12 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       <h2>Michal Špaček</h2>
     </div>
   </div>
+  <div class="speaker other">
+    <a href="https://plus.google.com/111453401774376620498/posts">
+      <img src="/data/imgs/recnici/richard-fridrich.jpg" width="200" height="250" alt="Richard Fridrich" />
+    </a>
+    <div class="info">
+      <h2>Richard Fridrich</h2>
+    </div>
+  </div>
 </section>

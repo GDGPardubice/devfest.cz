@@ -33,3 +33,4 @@ Minulé FightCluby
 Úplně první FightClub, ještě s trochu odlišnou koncepcí, měl premiéru na [**Pražském DevFestu 2012**](http://www.gug.cz/cs/akce/fightclub/terminy/devfest-2012), video z akce [**ke shlédnutí**](http://www.youtube.com/watch?v=NgjvVgyiut8).
 
 Druhý FightClub v ČR se odehrál letos na [**mDevCampu 2013**](http://www.gug.cz/cs/akce/fightclub/terminy/mdevcamp-2013), video z akce [**ke shlédnutí**](http://www.youtube.com/watch?v=2B7RYQ4q9Iw).
+
