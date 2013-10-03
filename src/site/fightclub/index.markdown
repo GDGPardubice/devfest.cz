@@ -3,10 +3,7 @@ layout: default
 title: "FightClub"
 ---
 
-FightClub
-=========
-
-<img src="/imgs/fightclub.png" width="524" height="90" alt="FightClub" />
+<h1><img src="/imgs/fightclub.png" width="524" height="90" alt="FightClub" /></h1>
 
 **hashtag: #FightClubCZ**
 
