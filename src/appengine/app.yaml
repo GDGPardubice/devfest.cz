@@ -1,5 +1,5 @@
 application: devfestpraha
-version: pardubice2013
+version: pardubice
 # NOTE: URL is CHANGEME.dart-lang.appspot.com
 #       To get your own staging server, change 'CHANGEME' to something
 #       like 'kathyw' or 'kathyw-dartium'.
@@ -16,43 +16,8 @@ runtime: python27
 api_version: 1
 threadsafe: true
 
-pagespeed:
-  enabled_rewriters:
-    - InlineImages
-    - CollapseWhitespace
-    - RemoveComments
-    - InlineJs
-
 #default_expiration: "1d"
 
 handlers:
-- url: /(.*\.png)
-  static_files: static/\1
-  expiration: 1d
-  upload: static/(.*\.png)
-
-- url: /(.*\.ico)
-  static_files: static/\1
-  expiration: 7d
-  upload: static/(.*\.ico)
-
-- url: /(.*\.jpg)
-  static_files: static/\1
-  expiration: 1d
-  upload: static/(.*\.jpg)
-
-- url: /(.*\.woff)
-  static_files: static/\1
-  expiration: 7d
-  upload: static/(.*\.woff)
-
-- url: /program
-  static_files: static/program/index.html
-  upload: static/index.html
-
-- url: (.*)/
-  static_files: static\1/index.html
-  upload: static/index.html
-
-- url: /
-  static_dir: static
+- url: /.*
+  script: redirect.app
