@@ -59,16 +59,17 @@ $(document).ready(function(){
       list:[
         {
           service: "facebook_page",
-          user: "156528027719650",
+          user: "69578781928",
           template: {
             wall_post: '<a href="${link}">${title}</a><i class="icon-facebook pull-right"></i>'
           }
         },
         {
-          service: "twitter",
-          user: "gughackathon",
+          service: "googleplus",
+          user: "102751345660146384940",
+          key: "AIzaSyAujiwajNkoqyPas-mczhBD1SEp4yWd0HA",
           template: {
-            posted: '{{html tweet}}<i class="icon-twitter pull-right"></i>'
+            posted: '<a href="${url}" title="${id}">${title}</a><i class="icon-google-plus pull-right"></i>'
           }
         }
       ]
