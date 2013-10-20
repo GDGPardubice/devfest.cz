@@ -433,7 +433,12 @@ article.homepage {
     width: 252px;
     height: 60px;
   }
-  .google a:hover, .gug a:hover, .dotekomanie a:hover {
+  .play a {
+    background: transparent url('../imgs/logos-play.png') top left no-repeat;  
+    width: 200px;
+    height: 64px;
+  }
+  .google a:hover, .gug a:hover, .dotekomanie a:hover, .play a:hover {
     background-position: left bottom;
   }
 }
