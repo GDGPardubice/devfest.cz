@@ -77,8 +77,6 @@ title: "Řečníci"
 Přihlášené Lighting Talky na DevFest Pardubice 2013
 ===================================================
 
-Chceš také něco říct na DevFestu? Máš možnost se zapojit prostřednictvím Lighting Talku! Stačí vyplnit <a href="https://docs.google.com/forms/d/1Zg8fYXnuRybhax6oojXM1CQ_PlC_9-YR-_G0EvcqPKk/viewform">registrační formulář</a>.
-
 <div id="program">
   <div class="program-item row blocks">
     <div class="program-item-time span2">
@@ -112,7 +110,3 @@ Chceš také něco říct na DevFestu? Máš možnost se zapojit prostřednictv�
     </div>
   </div>
 </div>
-
-GUGCamp
-=======
-Máš Android aplikaci a chtěl bys ji představit širší veřejnosti? Stačí vyplnit <a href="https://docs.google.com/forms/d/1Zg8fYXnuRybhax6oojXM1CQ_PlC_9-YR-_G0EvcqPKk/viewform">registrační formulář</a>.
