@@ -507,8 +507,7 @@ Program
 			<span class="time">20:30</span>
 		</div>
 		<div class="program-item-text span8">
-			<h2>GPivo</h2>
-			<p>Neformální posezení nad Googlem. A pivem. Zároveň nás čeká hudební happening NerdRock s písničkami, kterému sami již nyní <a href="https://plus.google.com/u/0/events/ci9vgu8ldpjkmktt1hk58rdpgb8">vytvářejte texty</a>.</p>		
+			<h2>GPivo</h2>	
 		</div>
 	</div>
 </section>
