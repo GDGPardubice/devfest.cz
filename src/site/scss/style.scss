@@ -438,7 +438,12 @@ article.homepage {
     width: 200px;
     height: 64px;
   }
-  .google a:hover, .gug a:hover, .dotekomanie a:hover, .play a:hover {
+  .dtv a {
+    background: transparent url('../imgs/logos-dtv.png') top left no-repeat;  
+    width: 200px;
+    height: 100px;
+  }
+  .google a:hover, .gug a:hover, .dotekomanie a:hover, .play a:hover, .dtv a:hover {
     background-position: left bottom;
   }
 }

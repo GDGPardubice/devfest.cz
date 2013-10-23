@@ -3,8 +3,7 @@ layout: default
 title: "GugCamp"
 ---
 
-GugCamp
-=======
+<h1><img src="/imgs/gugcamp.jpg" width="524" height="90" alt="GugCamp" /></h1>
 
 Máte nadějnou aplikaci a chcete se s ní pochlubit, získat publicitu a trochu té zpětné vazby? Neváhejte a přihlaste se na GUGCamp – soutěžní přehlídku uživatelských aplikací, kde jedinou podmínkou účasti je použití jakékoliv Google technologie.
  

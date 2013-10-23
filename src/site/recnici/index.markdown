@@ -41,4 +41,28 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       <h2>Richard Fridrich</h2>
     </div>
   </div>
+  <div class="speaker other">
+    <a href="https://plus.google.com/107521513699425693002/posts">
+      <img src="/data/imgs/recnici/danut-enachioiu.jpg" width="200" height="250" alt="Danut Enachioiu">
+    </a>
+    <div class="info">
+      <h2>Danut Enachioiu</h2>
+    </div>
+  </div>
+  <div class="speaker other">
+    <a href="https://plus.google.com/114910420999584318280/posts">
+      <img src="/data/imgs/recnici/robin-pokorny.jpg" width="200" height="250" alt="Robin Pokorný">
+    </a>
+    <div class="info">
+      <h2>Robin Pokorný</h2>
+    </div>
+  </div>
+  <div class="speaker other">
+    <a href="https://plus.google.com/113391188023467233438/posts">
+      <img src="/data/imgs/recnici/ladislav-prskavec.jpg" width="200" height="250" alt="Ladislav Prskavec">
+    </a>
+    <div class="info">
+      <h2>Ladislav Prskavec</h2>
+    </div>
+  </div>
 </section>

@@ -3,8 +3,7 @@ layout: default
 title: "DevGames"
 ---
 
-DevGames 2.0
-============
+<h1><img src="/imgs/devgames.jpg" width="524" height="90" alt="DevGames 2.0" /></h1>
 
 DevGames prověří vaše coding skills. Připojíte kablík do vašeho notebooku a jedete. 
 
