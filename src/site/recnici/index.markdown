@@ -71,7 +71,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>   
     <div class="info">
       <h2>Tomáš Čupr</h2>
-      <h3>GBG #FailCon</h3>
+      <h3>GBG FailCon</h3>
     </div>
   </div>
   <div class="speaker failcon">
@@ -80,7 +80,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>   
     <div class="info">
       <h2>Eduard Kučera</h2>
-      <h3>GBG #FailCon</h3>
+      <h3>GBG FailCon</h3>
     </div>
   </div>
   <div class="speaker failcon">
@@ -89,7 +89,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>   
     <div class="info">
       <h2>Pavel Doležal</h2>
-      <h3>GBG #FailCon</h3>
+      <h3>GBG FailCon</h3>
     </div>
   </div>
 </section>
