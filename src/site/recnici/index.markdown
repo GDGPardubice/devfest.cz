@@ -65,4 +65,31 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       <h2>Ladislav Prskavec</h2>
     </div>
   </div>
+  <div class="speaker failcon">
+    <a href="https://plus.google.com/112895293731184792979/posts">
+      <img src="/data/imgs/recnici/tomas-cupr.jpg" width="200" height="250" alt="Tomáš Čupr" />
+    </a>   
+    <div class="info">
+      <h2>Tomáš Čupr</h2>
+      <h3>GBG #FailCon</h3>
+    </div>
+  </div>
+  <div class="speaker failcon">
+    <a href="http://cz.linkedin.com/pub/eduard-kucera/5/7b1/a44">
+      <img src="/data/imgs/recnici/eduard-kucera.jpg" width="200" height="250" alt="Eduard Kučera" />
+    </a>   
+    <div class="info">
+      <h2>Eduard Kučera</h2>
+      <h3>GBG #FailCon</h3>
+    </div>
+  </div>
+  <div class="speaker failcon">
+    <a href="https://plus.google.com/118057997836838388380/posts">
+      <img src="/data/imgs/recnici/pavel-dolezal.jpg" width="200" height="250" alt="Pavel Doležal" />
+    </a>   
+    <div class="info">
+      <h2>Pavel Doležal</h2>
+      <h3>GBG #FailCon</h3>
+    </div>
+  </div>
 </section>
