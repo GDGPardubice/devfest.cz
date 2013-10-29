@@ -170,12 +170,12 @@ title: "O akci"
 				      <h3>Dávid Kováč</h3>
 				    </div>
 				</div>
-				<div class="organizator">
+				<div class="organizator long-name">
 					<a href="https://plus.google.com/106453391606524616170">
 				      <img src="/data/imgs/organizatori/pavel-vybiral.jpg" width="150" height="150" alt="Pavel Vybíral" />
 				    </a>
 				    <div class="info">
-				      <h3>Pavel Vybíral</h3>
+				      <h3>Pavel&nbsp;Tobiáš Vybíral</h3>
 				    </div>
 				</div>
 				<div class="organizator">
