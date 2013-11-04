@@ -9,6 +9,9 @@ Co je školným úspěšných lidí? Epic #fails. Není vzletu, který by nebyl 
 
 Na loňském GBG FailConu to skvěle ukázali např. Karel Janeček, Pavel Sodomka, Vítek Vrba, Tomáš Hajzler nebo Ondřej Bartoš ([**záznam z DevFestu Praha 2012**](http://www.youtube.com/watch?v=M84m1wV8OaQ)). I letos se potkáte s pěti hvězdami, které ukážou, že na cestě k úspěchu nutně potkáte i neúspěchy. A jen doufejme, že GBG #FailCon nebude #fail.
 
+Letošní GBG FailCon řečníci
+---------------------------
+
 **Tomáš Čupr** je bezesporu jeden z nejvýraznějších českých internetových podnikatelů současnosti. Ať už je řeč o jeho nejznámějším výtvoru v podobě Slevomatu, případně jeho novějším projektu Dáme jídlo, vždy jsou s diskuzí spojené velké emoce a nemalá míra kontroverze. I tento český Mark Zuckerberg se při cestě za nebývalým úspěchem setkal s nejedním životním failem a na GBG Failconu máte jedinečnou příležitost vyslechnout si tento příběh v jeho osobním podání.
 
 **Eduard Kučera** se do historie internetové bezpečnosti nesmazatelně zapsal již v roce 2002 s vypuštěním free verze populárního programu avast!. Ten v současnosti využívá přes 170 milionů uživatelů po celém světě, což také dopomohlo tomu, že je firma AVAST software jednou z hrstky českých firem obchodovatelných na Wall Street. Jeho životní příběh ale zdaleka nekončí na virtuálním bojišti rezidentních štítů a ochran. Jaké faily prožil podnikatel roku 2009, jehož moto zní „Kdo neriskuje, nevydělává“, si můžete na vlastní uši vyslechnout 23. listopadu.
