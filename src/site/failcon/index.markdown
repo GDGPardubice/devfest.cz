@@ -9,6 +9,8 @@ Co je školným úspěšných lidí? Epic #fails. Není vzletu, který by nebyl 
 
 Na loňském GBG FailConu to skvěle ukázali např. Karel Janeček, Pavel Sodomka, Vítek Vrba, Tomáš Hajzler nebo Ondřej Bartoš ([**záznam z DevFestu Praha 2012**](http://www.youtube.com/watch?v=M84m1wV8OaQ)). I letos se potkáte s pěti hvězdami, které ukážou, že na cestě k úspěchu nutně potkáte i neúspěchy. A jen doufejme, že GBG #FailCon nebude #fail.
 
+GBG FailCon vám přináší ([Google Business Group ČR](http://www.gug.cz/cs/gbg/skupiny/prague)), součást GUG.cz zaměřená na využití Google v podnikání.
+
 Letošní GBG FailCon řečníci
 ---------------------------
 
