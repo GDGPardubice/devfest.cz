@@ -463,9 +463,19 @@ article.homepage {
     width: 204px;
     height: 70px;
   }
+  .steamzine a {
+    background: transparent url('../imgs/logos-steamzine.png') top left no-repeat;  
+    width: 290px;
+    height: 40px;
+  }
+  .inmedity a {
+    background: transparent url('../imgs/logos-inmedity.png') top left no-repeat;  
+    width: 120px;
+    height: 70px;
+  }
   .google a:hover, .gug a:hover, .dotekomanie a:hover, .play a:hover, 
   .dtv a:hover, .svetandroida a:hover, .devminutes a:hover, 
-  .juicymo a:hover, .mockpad a:hover {
+  .juicymo a:hover, .mockpad a:hover, .steamzine a:hover, .inmedity a:hover {
     background-position: left bottom;
   }
 }
