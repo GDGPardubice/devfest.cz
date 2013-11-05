@@ -19,7 +19,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </div>
   </div>
   <div class="speaker other">
-    <a href="https://plus.google.com/106378848135270560799/posts">
+    <a href="/recnici/frantisek-fuka">
       <img src="/data/imgs/recnici/frantisek-fuka.jpg" width="200" height="250" alt="František Fuka" />
     </a>
     <div class="info">
