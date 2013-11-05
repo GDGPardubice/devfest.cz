@@ -196,7 +196,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </div>
   </div>
   <div class="speaker android">
-    <a href="#">
+    <a href="https://plus.google.com/u/0/+WojtekKalicinski/posts">
       <img src="/data/imgs/recnici/wojtek-kalicinski.jpg" width="200" height="250" alt="Wojtek Kaliciński">
     </a>
     <div class="info">
