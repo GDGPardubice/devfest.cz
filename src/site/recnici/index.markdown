@@ -15,7 +15,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>
     <div class="info">
       <h2>Filip Hráček</h2>
-      <h3></h3>
+      <h3>Dart</h3>
     </div>
   </div>
   <div class="speaker other">
@@ -52,7 +52,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       <h2>Danut Enachioiu</h2>
     </div>
   </div>
-  <div class="speaker other">
+  <div class="speaker web">
     <a href="https://plus.google.com/114910420999584318280/posts">
       <img src="/data/imgs/recnici/robin-pokorny.jpg" width="200" height="250" alt="Robin Pokorný">
     </a>
@@ -184,6 +184,24 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     <div class="info">
       <h2>Tomáš Zvěřina</h2>
       <h3>AppEngine jako backend vaší app-ky</h3>
+    </div>
+  </div>
+  <div class="speaker web">
+    <a href="https://plus.google.com/+IvanKutil/posts">
+      <img src="/data/imgs/recnici/ivan-kutil.jpg" width="200" height="250" alt="Ivan Kutil">
+    </a>
+    <div class="info">
+      <h2>Ivan Kutil</h2>
+      <h3>Automatizace a vývoj aplikací v Google Apps Scripts</h3>
+    </div>
+  </div>
+  <div class="speaker android">
+    <a href="#">
+      <img src="/data/imgs/recnici/wojtek-kalicinski.jpg" width="200" height="250" alt="Wojtek Kaliciński">
+    </a>
+    <div class="info">
+      <h2>Wojtek Kaliciński</h2>
+      <h3>Android - is it time for a break yet?</h3>
     </div>
   </div>
   <div class="speaker lab">
