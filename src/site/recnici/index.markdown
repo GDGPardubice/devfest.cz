@@ -205,7 +205,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </div>
   </div>
   <div class="speaker lab">
-    <a href="#">
+    <a href="http://www.misehero.cz/">
       <img src="/data/imgs/recnici/jiri-breda.jpg" width="200" height="250" alt="Jiří Bréda">
     </a>
     <div class="info">
