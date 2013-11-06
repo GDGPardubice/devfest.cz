@@ -6,6 +6,7 @@ title: "Řečníci"
 
 Řečníci na DevFestu Praha 2013
 ==============================
+
 Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte podívat i později.
 
 <section id="speakers">
@@ -257,5 +258,80 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
         <h3>GBG FailCon</h3>
       </div>
     </a>       
+  </div>
+</section>
+
+GBG Failcon na DevFestu Praha 2013
+================================
+
+<section id="speakers">
+  <div class="speaker failcon">
+    <a href="/program/tomas-cupr.html">
+      <img src="/data/imgs/recnici/tomas-cupr.jpg" width="200" height="250" alt="Tomáš Čupr" />
+      <div class="info">
+        <h2>Tomáš Čupr</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>      
+  </div>
+  <div class="speaker failcon">
+    <a href="/program/eduard-kucera.html">
+      <img src="/data/imgs/recnici/eduard-kucera.jpg" width="200" height="250" alt="Eduard Kučera" />
+      <div class="info">
+        <h2>Eduard Kučera</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>      
+  </div>
+  <div class="speaker failcon">
+    <a href="/program/pavel-dolezal.html">
+      <img src="/data/imgs/recnici/pavel-dolezal.jpg" width="200" height="250" alt="Pavel Doležal" />
+      <div class="info">
+        <h2>Pavel Doležal</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>       
+  </div>
+</section>
+
+Workshopy na DevFestu Praha 2013
+================================
+
+<section id="speakers">
+  <div class="speaker lab">
+    <a href="/program/workshop-stan-se-hrdinou-stan-se-lidrem.html">
+      <img src="/data/imgs/recnici/jiri-breda.jpg" width="200" height="250" alt="Jiří Bréda">
+      <div class="info">
+        <h2>Jiří Bréda</h2>
+        <h3>Workshop: Staň se hrdinou, staň se lídrem</h3>
+      </div>
+    </a>
+  </div>
+  <div class="speaker lab">
+    <a href="/program/workshop-skladatelem-skoro-snadno-a-skoro-rychle.html">
+      <img src="/data/imgs/recnici/frantisek-fuka.jpg" width="200" height="250" alt="František Fuka" />
+      <div class="info">
+        <h2>František Fuka</h2>
+        <h3>Workshop: Skladatelem skoro snadno a skoro rychle</h3>
+      </div>
+    </a>
+  </div>
+  <div class="speaker lab">
+    <a href="/program/workshop-restovany-angular-s-mongo-salsou-od-yeomana.html">
+      <img src="/data/imgs/recnici/jan-killian.jpg" width="200" height="250" alt="Jan Killian">
+      <div class="info">
+        <h2>Jan Killian</h2>
+        <h3>Workshop: RESTovaný Angular s Mongo salsou od Yeomana</h3>
+      </div>
+    </a>
+  </div>
+  <div class="speaker lab">
+    <a href="/program/workshop-restovany-angular-s-mongo-salsou-od-yeomana.html">
+      <img src="/data/imgs/recnici/tomas-holas.jpg" width="200" height="250" alt="Tomáš Holas">
+      <div class="info">
+        <h2>Tomáš Holas</h2>
+        <h3>Workshop: RESTovaný Angular s Mongo salsou od Yeomana</h3>
+      </div>
+    </a>  
   </div>
 </section>
