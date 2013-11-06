@@ -262,7 +262,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
 </section>
 
 GBG Failcon na DevFestu Praha 2013
-================================
+==================================
 
 <section id="speakers">
   <div class="speaker failcon">
