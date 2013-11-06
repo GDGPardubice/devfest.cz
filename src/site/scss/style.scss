@@ -512,6 +512,9 @@ footer {
     border: 1px solid $green-dark;
     border-width: 3px 0 5px;
     margin: 0 10px 10px 0;
+    a {
+      color: white !important;
+    }
   }
   .info {
     margin-top: -50px;
@@ -569,13 +572,12 @@ footer {
 #speakers.speakers-detail {
   @media (max-width: 979px) {
     .speaker {
-      margin: 0 0 0 -20px;
+      margin: 0 10px 10px 0;
     }
-  }
-  @media (max-width: 767px) {
-    .speaker {
-      float: none;
-      margin: 0 auto;
+    .talk-info {
+      clear: both;
+      width: auto !important;
+      margin-left: 0 !important;
     }
   }
   @media (min-width: 980px) {

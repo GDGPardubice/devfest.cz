@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "František Fuka"
+title: "Lua: Krása v jednoduchosti - František Fuka"
 ---
 
 <section id="speakers" class="row speakers-detail">
