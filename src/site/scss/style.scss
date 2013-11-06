@@ -1036,6 +1036,10 @@ section#past-devfests {
   text-align: center;
 }
 
+.clear {
+  clear: both;
+}
+
 @import "countdown";
 @import "carousel";
 @import "forkit";
