@@ -196,6 +196,15 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       </div>
     </a>   
   </div>
+  <div class="speaker android">
+    <a href="/program/mimpi-case-study-vyvoje-mobilni-hry-pro-android-v-unity-3d.html">
+      <img src="/data/imgs/recnici/martin-vano.jpg" width="200" height="250" alt="Martin Vaňo">
+      <div class="info">
+        <h2>Martin Vaňo</h2>
+        <h3>Mimpi - case study vývoje mobilní hry pro Android v Unity 3D</h3>
+      </div>
+    </a>   
+  </div>
   <div class="speaker lab">
     <a href="/program/workshop-stan-se-hrdinou-stan-se-lidrem.html">
       <img src="/data/imgs/recnici/jiri-breda.jpg" width="200" height="250" alt="Jiří Bréda">
