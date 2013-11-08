@@ -250,6 +250,14 @@ title: "O akci"
 				      <h3>Alois Holub</h3>
 				    </div>
 				</div>
+				<div class="organizator long-name">
+					<a href="https://plus.google.com/115360236927502147287/posts">
+				      <img src="/data/imgs/organizatori/samuel-morihlatko.jpg" width="150" height="150" alt="Samuel Morihlatko">
+				    </a>
+				    <div class="info">
+				      <h3>Samuel Morihlatko</h3>
+				    </div>
+				</div>
 			</div>
 		</div>
 	</div>
