@@ -301,6 +301,12 @@ GBG Failcon na DevFestu Praha 2013
       </div>
     </a>       
   </div>
+  <div class="speaker failcon">
+    <img src="/data/imgs/recnici/no-name.jpg" width="200" height="250" alt="?" />
+  </div> 
+  <div class="speaker failcon">
+    <img src="/data/imgs/recnici/no-name.jpg" width="200" height="250" alt="?" />
+  </div>  
 </section>
 
 Workshopy na DevFestu Praha 2013
