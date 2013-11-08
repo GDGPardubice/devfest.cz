@@ -6,6 +6,21 @@ title: "O akci"
 <section id="about">
 	<h1>O akci</h1>
 	<p>DevFest je oslavou našeho vývojářského řemesla a nový svátek. Je to jeden den <strong>od vývojářů, pro vývojáře</strong>. DevFest pro vás připravil tým organizátorů z řad celého GUG.cz s vydatnou pomocí Google ČR. Našemu týmu je velkou ctí, že pro vás může tyto akce pořádat, a hlavně nás to hodně baví. Tato akce by se neuskutečnila bez úsilí všech organizátorů uvedených níže za podpory dalších GUGerů a hlavně <em>vás, účastníků</em>. Děkujeme a těšíme se v sobotu!</p>
+	<div style="text-align:center;" class="row">
+		<map name="organising-groups" class="span12">
+			<area shape="rect" alt="GDG Prague" title="GDG Prague" coords="16,7,86,118" href="http://www.gug.cz/cs/gdg/skupiny/prague" />
+			<area shape="rect" alt="GDG ČVUT Prague" title="GDG ČVUT Prague" coords="105,7,172,119" href="http://www.gug.cz/cs/gdg/skupiny/cvut" />
+			<area shape="rect" alt="GDG Pardubice" title="GDG Pardubice" coords="185,10,274,119" href="http://www.gug.cz/cs/gdg/skupiny/pardubice" />
+			<area shape="rect" alt="GDG Jihlava" title="GDG Jihlava" coords="284,11,352,119" href="http://www.gug.cz/cs/gdg/skupiny/jihlava" />
+			<area shape="rect" alt="GBG Prague" title="GBG Prague" coords="371,11,447,119" href="http://www.gug.cz/cs/gbg/skupiny/prague" />
+			<area shape="rect" alt="GEG ČR" title="GEG ČR" coords="463,10,535,119" href="http://www.gug.cz/cs/geg/skupiny/gegcr" />
+			<area shape="rect" alt="GXG Chomutov" title="GXG Chomutov" coords="7,147,93,257" href="http://www.gug.cz/cs/gxg/skupiny/chomutov" />
+			<area shape="rect" alt="GXG Brno" title="GXG Brno" coords="102,148,177,256" href="http://www.gug.cz/cs/gxg/skupiny/brno" />
+			<area shape="rect" alt="GXG Polička" title="GXG Polička" coords="190,148,269,257" href="http://www.gug.cz/cs/gxg/skupiny/Poli%C4%8Dka,%20GXG%20Poli%C4%8Dka,%20GUG" />
+			<area shape="rect" alt="GDG Poprad-Tatry" title="GDG Poprad-Tatry" coords="292,161,540,207" href="http://www.poprad-gdg.sk/" />
+		</map>
+		<img src="/imgs/organizujici-skupiny.png" alt="Organizující skupiny" usemap="#organising-groups" width="560" height="277" />
+	</div>
 	<div class="row">
 		<div class="span12">
 			<h2>Organizátoři</h2>
