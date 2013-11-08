@@ -14,6 +14,6 @@ title: "AppEngine jako backend vaší app-ky: Tomáš Zvěřina"
   </div>
   <div class="span9 talk-info">
     <h1>AppEngine jako backend vaší app-ky</h1>
-    <p>Při sepisování anotace došel v psacím stroji inkoust. Pracujeme na jeho doplnění. Navštivte stránku později.</p>
+    <p>Tři cesty jak v AppEngine vytvořit API pro Vaši mobilní app-ku. Dependency injection, Objectify, REST, ... máme všechno po čem srdce touží.</p>
   </div>
 </section>
