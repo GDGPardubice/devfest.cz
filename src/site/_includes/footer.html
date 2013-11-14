@@ -1,5 +1,7 @@
 	</div> <!-- /.container -->
-	{% include curtain.html %}
+	{% if page.type == "home" %}
+		{% include curtain.html %}
+	{%endif%}
 	<footer>
 		<div class="container">
 			<div class="row copyright">
@@ -19,9 +21,9 @@
 - /js/jquery.countdown.min.js
 - /js/bootstrap-carousel.js
 - /js/bootstrap-transition.js
-- /js/jquery.lifestream.min.js    
-	{%endif%}
-- /js/forkit.js 	
+- /js/jquery.lifestream.min.js  
+- /js/forkit.js   
+	{%endif%}	
 - /js/init.js
 {% endbundle %}
 </body>

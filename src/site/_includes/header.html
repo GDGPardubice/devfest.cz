@@ -90,9 +90,11 @@
                 <a href="https://twitter.com/share" class="twitter-share-button" data-via="gughackathon" data-lang="cs" data-count="none">Tweet</a>                
               </li> 
               <li class="share-button gplus"><div class="g-plusone" data-size="medium" data-callback="gplus_pressed" data-annotation="none"></div></li>
-              <li>
-                <a class="agnes-icon visible-phone visible-tablet" href="/agnes/">Agnes</a>
-              </li>
+              {% if page.type == "home" %}
+                <li>
+                  <a class="agnes-icon visible-phone visible-tablet" href="/agnes/">Agnes</a>
+                </li>
+              {%endif%}
             </ul>
           </div><!--/.nav-collapse -->    
         </div>
