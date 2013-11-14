@@ -13,7 +13,7 @@ title: "Dart: Filip Hráček"
     </div>
   </div>
   <div class="span9 talk-info">
-    <h1>Dart</h1>
-    <p>Při sepisování anotace došel v psacím stroji inkoust. Pracujeme na jeho doplnění. Navštivte stránku později.</p>
+    <h1>Dart 1.0</h1>
+    <p>Rychloúvod do Dartu. Průvod jazykem, knihovnami a IDE. Na co byste měli, a na co byste naopak neměli používat Dart. Co znamení Dart pro web jako takový?</p>
   </div>
 </section>

@@ -15,7 +15,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       <img src="/data/imgs/recnici/filip-hracek.jpg" width="200" height="250" alt="Filip Hráček" />
       <div class="info">
         <h2>Filip Hráček</h2>
-        <h3>Dart</h3>
+        <h3>Dart 1.0</h3>
       </div>
     </a>
   </div>
