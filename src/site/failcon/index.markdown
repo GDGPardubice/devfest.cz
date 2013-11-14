@@ -20,4 +20,7 @@ Letošní GBG FailCon řečníci
 
 Investor, vizionář, jeden z otců současné podoby internetu v ČR, to jsou jen některá z označení **Pavla Doležala**, zakladatele společností tak zvučných jmen, jakými jsou Atlas.cz či Ataxo. Nahlédněte s námi do zákulisí jednotlivých vzestupů i tvrdých pádů, které jej v životě provázely. Třeba odhalíte, co i vám pomůže vždy vstát a zkoušet to dál, až do úspěšného konce.
 
+**Alice Nellis**
+
+**Milan Cais**
 

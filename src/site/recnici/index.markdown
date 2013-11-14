@@ -252,11 +252,23 @@ GBG Failcon na DevFestu Praha 2013
     </a>       
   </div>
   <div class="speaker failcon">
-    <img src="/data/imgs/recnici/no-name.jpg" width="200" height="250" alt="?" />
-  </div> 
+    <a href="/program/alice-nellis.html">
+      <img src="/data/imgs/recnici/alice-nellis.jpg" width="200" height="250" alt="Alice Nellis" />
+      <div class="info">
+        <h2>Alice Nellis</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>       
+  </div>
   <div class="speaker failcon">
-    <img src="/data/imgs/recnici/no-name.jpg" width="200" height="250" alt="?" />
-  </div>  
+    <a href="/program/milan-cais.html">
+      <img src="/data/imgs/recnici/milan-cais.jpg" width="200" height="250" alt="Milan Cais" />
+      <div class="info">
+        <h2>Milan Cais</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>       
+  </div> 
 </section>
 <div class="clear"></div>
 
