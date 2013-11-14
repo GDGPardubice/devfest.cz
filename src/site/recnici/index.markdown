@@ -211,11 +211,11 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
   <div class="speaker web">
     <a href="/program/automatizace-a-vyvoj-aplikaci-v-google-apps-scripts.html">
       <img src="/data/imgs/recnici/ivan-kutil.jpg" width="200" height="250" alt="Ivan Kutil">
-    </a>
-    <div class="info">
-      <h2>Ivan Kutil</h2>
-      <h3>Automatizace a vývoj aplikací v Google Apps Scripts</h3>
-    </div>
+      <div class="info">
+        <h2>Ivan Kutil</h2>
+        <h3>Automatizace a vývoj aplikací v Google Apps Scripts</h3>
+      </div>
+    </a>   
   </div>
 </section>
 <div class="clear"></div>
