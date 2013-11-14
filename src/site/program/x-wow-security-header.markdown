@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Michal Špaček"
+title: "X-Wow-Security-Header: Michal Špaček"
 ---
 
 <section id="speakers" class="row speakers-detail">
@@ -13,7 +13,7 @@ title: "Michal Špaček"
     </div>
   </div>
   <div class="span9 talk-info">
-    <h1></h1>
-    <p>Při sepisování anotace došel v psacím stroji inkoust. Pracujeme na jeho doplnění. Navštivte stránku později.</p>
+    <h1>X-Wow-Security-Header</h1>
+    <p>Znáte nějaké HTTP hlavičky? Asi znáte, že. A víte, že některé ty hlavičky dělají Internet a webové aplikace bezpečnějším místem na Zemi? Pravděpodobně to tušíte. A kolik jich znáte? Všechny, jo? Paráda, takže to budu muset asi vymyslet nějaké jiné téma.</p>
   </div>
 </section>

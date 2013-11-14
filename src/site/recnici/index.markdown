@@ -29,10 +29,11 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>
   </div>
   <div class="speaker other">
-    <a href="/program/michal-spacek.html">
+    <a href="/program/x-wow-security-header.html">
       <img src="/data/imgs/recnici/michal-spacek.jpg" width="200" height="250" alt="Michal Špaček" />
       <div class="info">
         <h2>Michal Špaček</h2>
+        <h3>X-Wow-Security-Header</h3>
       </div>
     </a>
   </div>
@@ -46,18 +47,20 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>
   </div>
   <div class="speaker other">
-    <a href="/program/danut-enachioiu.html">
+    <a href="/program/how-i-learned-to-love-the-datastore.html">
       <img src="/data/imgs/recnici/danut-enachioiu.jpg" width="200" height="250" alt="Danut Enachioiu">
       <div class="info">
         <h2>Danut Enachioiu</h2>
+        <h3>How I Learned to Love the Datastore</h3>
       </div>
     </a>
   </div>
   <div class="speaker web">
-    <a href="/program/robin-pokorny.html">
+    <a href="/program/jak-chytre-jsou-chrome-devtools.html">
       <img src="/data/imgs/recnici/robin-pokorny.jpg" width="200" height="250" alt="Robin Pokorný">
       <div class="info">
         <h2>Robin Pokorný</h2>
+        <h3>Jak chytré jsou Chrome DevTools</h3>
       </div>
     </a>
   </div>
@@ -204,6 +207,15 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
         <h3>Mimpi - case study vývoje mobilní hry pro Android v Unity 3D</h3>
       </div>
     </a>   
+  </div>
+  <div class="speaker web">
+    <a href="/program/automatizace-a-vyvoj-aplikaci-v-google-apps-scripts.html">
+      <img src="/data/imgs/recnici/ivan-kutil.jpg" width="200" height="250" alt="Ivan Kutil">
+    </a>
+    <div class="info">
+      <h2>Ivan Kutil</h2>
+      <h3>Automatizace a vývoj aplikací v Google Apps Scripts</h3>
+    </div>
   </div>
 </section>
 <div class="clear"></div>
