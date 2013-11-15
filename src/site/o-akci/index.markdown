@@ -17,9 +17,10 @@ title: "O akci"
 			<area shape="rect" alt="GXG Chomutov" title="GXG Chomutov" coords="7,147,93,257" href="http://www.gug.cz/cs/gxg/skupiny/chomutov" />
 			<area shape="rect" alt="GXG Brno" title="GXG Brno" coords="102,148,177,256" href="http://www.gug.cz/cs/gxg/skupiny/brno" />
 			<area shape="rect" alt="GXG Polička" title="GXG Polička" coords="190,148,269,257" href="http://www.gug.cz/cs/gxg/skupiny/Poli%C4%8Dka,%20GXG%20Poli%C4%8Dka,%20GUG" />
-			<area shape="rect" alt="GDG Poprad-Tatry" title="GDG Poprad-Tatry" coords="292,161,540,207" href="http://www.poprad-gdg.sk/" />
+			<area shape="rect" alt="GDG Košice" title="GDG Košice" coords="288,149,347,255" href="http://kosice.gdg.sk/" />
+			<area shape="rect" alt="GDG Poprad-Tatry" title="GDG Poprad-Tatry" coords="370,162,623,209" href="http://www.poprad-gdg.sk/" />
 		</map>
-		<img src="/imgs/organizujici-skupiny.png" alt="Organizující skupiny" usemap="#organising-groups" width="560" height="277" />
+		<img src="/imgs/organizujici-skupiny.png" alt="Organizující skupiny" usemap="#organising-groups" width="628" height="277" />
 	</div>
 	<div class="row">
 		<div class="span12">
@@ -154,7 +155,7 @@ title: "O akci"
 				    </div>
 				</div>
 				<div class="organizator">
-					<a href="https://plus.google.com/108181155990195164346">
+					<a href="https://google.com/+FlorianNagy">
 				      <img src="/data/imgs/organizatori/florian-nagy.jpg" width="150" height="150" alt="Florian Nagy" />
 				    </a>
 				    <div class="info">
@@ -178,7 +179,7 @@ title: "O akci"
 				    </div>
 				</div>
 				<div class="organizator">
-					<a href="https://plus.google.com/104815104420632461640">
+					<a href="https://google.com/+DávidKováč">
 				      <img src="/data/imgs/organizatori/david-kovac.jpg" width="150" height="150" alt="Dávid Kováč" />
 				    </a>
 				    <div class="info">
@@ -271,6 +272,14 @@ title: "O akci"
 				    </a>
 				    <div class="info">
 				      <h3>Samuel Morihlatko</h3>
+				    </div>
+				</div>
+				<div class="organizator long-name">
+					<a href="https://google.com/+EdmundDakoš">
+				      <img src="/data/imgs/organizatori/edmund-dakos.jpg" width="150" height="150" alt="Edmund Dakoš">
+				    </a>
+				    <div class="info">
+				      <h3>Edmund Dakoš</h3>
 				    </div>
 				</div>
 			</div>
