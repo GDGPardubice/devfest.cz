@@ -877,6 +877,7 @@ footer {
     }
     .span2 {
       height: 188px;
+      display: block;     
       @media (max-width: 979px) and (min-width: 768px) {
         height: 250px;
       }
@@ -896,6 +897,9 @@ footer {
         @media (max-width: 979px) and (min-width: 768px) {
           background: transparent url('../imgs/program-arrow-tablet.png') right bottom no-repeat;
         }
+      }
+      a.span2 {
+        color: white;
       }
     }
     .span2.offset2 {
