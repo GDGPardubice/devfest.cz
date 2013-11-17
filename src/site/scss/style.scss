@@ -856,7 +856,7 @@ footer {
       -webkit-border-radius: 40px;
       border-radius: 40px;
     }
-    img:first-child {
+    img + img {
       right: 62px;
     }
     .room {
