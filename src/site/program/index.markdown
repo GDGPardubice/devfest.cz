@@ -176,8 +176,8 @@ Program
 						<div class="inside-2">
 							<h2>Jan Killian, Tomáš Holas</h2>
 							<p>RESTovaný Angular s Mongo salsou od Yeomana</p>
-							<img src="/data/imgs/recnici/jan-killian-small.jpg" width="40" height="40" alt="Jan Killian" />
 							<img src="/data/imgs/recnici/tomas-holas-small.jpg" width="40" height="40" alt="Tomáš Holas" />
+							<img src="/data/imgs/recnici/jan-killian-small.jpg" width="40" height="40" alt="Jan Killian" />
 							<span class="room pull-left visible-phone">Da Vinci</span>
 						</div>
 					</div>
@@ -290,8 +290,8 @@ Program
 						<div class="inside-2">
 							<h2>Jan Killian, Tomáš Holas<span class="visible-phone"> (1/2)</span></h2>
 							<p>RESTovaný Angular s Mongo salsou od Yeomana</p>
-							<img src="/data/imgs/recnici/jan-killian-small.jpg" width="40" height="40" alt="Jan Killian" />
 							<img src="/data/imgs/recnici/tomas-holas-small.jpg" width="40" height="40" alt="Tomáš Holas" />
+							<img src="/data/imgs/recnici/jan-killian-small.jpg" width="40" height="40" alt="Jan Killian" />
 							<span class="room pull-left visible-phone">Workshops</span>
 						</div>
 					</div>
@@ -511,8 +511,8 @@ Program
 						<div class="inside-2">
 							<h2>Marc Cohen, Mandy Waite</h2>
 							<p>Building and Managing High Performance Compute Clusters in the Cloud</p>
-							<img src="/data/imgs/recnici/marc-cohen-small.jpg" width="40" height="40" alt="Marc Cohen" />
 							<img src="/data/imgs/recnici/mandy-waite-small.jpg" width="40" height="40" alt="Mandy Waite" />
+							<img src="/data/imgs/recnici/marc-cohen-small.jpg" width="40" height="40" alt="Marc Cohen" />
 							<span class="room pull-left visible-phone">Da Vinci</span>
 						</div>
 					</div>
@@ -522,8 +522,8 @@ Program
 						<div class="inside-2">
 							<h2>Lukáš Petrák, Roman Hošek</h2>
 							<p>Android - vzpoura strojů </p>
-							<img src="/data/imgs/recnici/lukas-petrak-small.jpg" width="40" height="40" alt="Lukáš Petrák" />
 							<img src="/data/imgs/recnici/roman-hosek-small.jpg" width="40" height="40" alt="Roman Hošek" />
+							<img src="/data/imgs/recnici/lukas-petrak-small.jpg" width="40" height="40" alt="Lukáš Petrák" />
 							<span class="room pull-left visible-phone">Galilei</span>
 						</div>
 					</div>
@@ -580,8 +580,8 @@ Program
 						<div class="inside-2">
 							<h2>Marek Sebera, Petr Nálevka</h2>
 							<p>Hands on Chromecast</p>
-							<img src="/data/imgs/recnici/marek-sebera-small.jpg" width="40" height="40" alt="Marek Sebera" />
 							<img src="/data/imgs/recnici/petr-nalevka-small.jpg" width="40" height="40" alt="Petr Nálevka" />
+							<img src="/data/imgs/recnici/marek-sebera-small.jpg" width="40" height="40" alt="Marek Sebera" />
 							<span class="room pull-left visible-phone">Galilei</span>
 						</div>
 					</div>
