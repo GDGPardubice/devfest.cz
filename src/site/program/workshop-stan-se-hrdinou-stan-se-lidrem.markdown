@@ -10,7 +10,6 @@ title: "Workshop: Staň se hrdinou, staň se lídrem - Jiří Bréda"
     </a>
     <div class="info">
       <h2>Jiří Bréda</h2>
-      <h3>Workshop: Staň se hrdinou, staň se lídrem</h3>
     </div>
   </div>
   <div class="span9 talk-info">

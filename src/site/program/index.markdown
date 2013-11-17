@@ -403,7 +403,7 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/" class="span2 lab">
+				<a href="/program/talk-jak-se-potkat.html" class="span2 lab">
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Martin Lána</h2>
