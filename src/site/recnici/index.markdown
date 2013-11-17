@@ -312,4 +312,13 @@ Workshopy na DevFestu Praha 2013
       </div>
     </a>  
   </div>
+  <div class="speaker lab">
+    <a href="/program/talk-jak-se-potkat.html">
+      <img src="/data/imgs/recnici/martin-lana.jpg" width="200" height="250" alt="Martin Lána">
+      <div class="info">
+        <h2>Martin Lána</h2>
+        <h3>Talk: Jak se potkat?</h3>
+      </div>
+    </a>  
+  </div>
 </section>
