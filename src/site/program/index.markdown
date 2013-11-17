@@ -469,10 +469,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/workshop-skladatelem-skoro-snadno-a-skoro-rychle.html" class="span2 lab">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/workshop-skladatelem-skoro-snadno-a-skoro-rychle.html" class="span2 lab double double-col-4">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>František Fuka</h2>
+							<h2>František Fuka<span class="visible-phone"> (1/2)</span></h2>
 							<p>Skladatelem skoro snadno a skoro rychle</p>
 							<img src="/data/imgs/recnici/frantisek-fuka-small.jpg" width="40" height="40" alt="František Fuka" />
 							<span class="room pull-left visible-phone">Workshops</span>
@@ -527,10 +528,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/workshop-skladatelem-skoro-snadno-a-skoro-rychle.html" class="span2 lab">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/workshop-skladatelem-skoro-snadno-a-skoro-rychle.html" class="span2 lab visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>František Fuka</h2>
+							<h2>František Fuka<span class="visible-phone"> (2/2)</span></h2>
 							<p>Skladatelem skoro snadno a skoro rychle</p>
 							<img src="/data/imgs/recnici/frantisek-fuka-small.jpg" width="40" height="40" alt="František Fuka" />
 							<span class="room pull-left visible-phone">Workshops</span>
