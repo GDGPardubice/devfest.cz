@@ -6,7 +6,6 @@ title: "Program"
 
 Program 
 =======
-
 <section id="program">
 	<div class="program-item row hidden-phone">
 		<div class="program-item-time span2 empty">
@@ -141,10 +140,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/workshop-stan-se-hrdinou-stan-se-lidrem.html" class="span2 lab">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/workshop-stan-se-hrdinou-stan-se-lidrem.html" class="span2 lab double double-col-4">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Jiří Bréda</h2>
+							<h2>Jiří Bréda<span class="visible-phone"> (1/2)</span></h2>
 							<p>Staň se hrdinou, staň se lídrem</p>		
 							<img src="/data/imgs/recnici/jiri-breda-small.jpg" width="40" height="40" alt="Jiří Bréda" />
 							<span class="room pull-left visible-phone">Workshops</span>
@@ -192,10 +192,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/workshop-stan-se-hrdinou-stan-se-lidrem.html" class="span2 lab">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/workshop-stan-se-hrdinou-stan-se-lidrem.html" class="span2 lab visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Jiří Bréda</h2>
+							<h2>Jiří Bréda (2/2)</h2>
 							<p>Staň se hrdinou, staň se lídrem</p>		
 							<img src="/data/imgs/recnici/jiri-breda-small.jpg" width="40" height="40" alt="Jiří Bréda" />
 							<span class="room pull-left visible-phone">Workshops</span>
@@ -252,19 +253,21 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<a href="/failcon/" class="span2 dev">
+				<div class="span2 hidden-phone"></div>
+				<a href="/failcon/" class="span2 dev double">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>GBG #FailCon</h2>
+							<h2>GBG #FailCon<span class="visible-phone"> (1/2)</span></h2>
 							<p>Není úspěchu, který by nebyl provázen pády, průšvihy a špatnými rozhodnutími. Několik odvážných a úspěšných lidí se přijde podělit o tuto část své cesty.</p>
 							<span class="room pull-left visible-phone">Gutenberg</span>
 						</div>
 					</div>				
 				</a>
-				<a href="/program/lua-krasa-v-jednoduchosti.html" class="span2 other">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/lua-krasa-v-jednoduchosti.html" class="span2 other double double-col-2">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>František Fuka</h2>
+							<h2>František Fuka<span class="visible-phone"> (1/2)</span></h2>
 							<p>Lua: Krása v jednoduchosti</p>
 							<img src="/data/imgs/recnici/frantisek-fuka-small.jpg" width="40" height="40" alt="František Fuka" />
 							<span class="room pull-left visible-phone">Da Vinci</span>
@@ -281,10 +284,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/workshop-restovany-angular-s-mongo-salsou-od-yeomana.html" class="span2 lab">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/workshop-restovany-angular-s-mongo-salsou-od-yeomana.html" class="span2 lab double double-col-4">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Jan Killian, Tomáš Holas</h2>
+							<h2>Jan Killian, Tomáš Holas<span class="visible-phone"> (1/2)</span></h2>
 							<p>RESTovaný Angular s Mongo salsou od Yeomana</p>
 							<img src="/data/imgs/recnici/jan-killian-small.jpg" width="40" height="40" alt="Jan Killian" />
 							<img src="/data/imgs/recnici/tomas-holas-small.jpg" width="40" height="40" alt="Tomáš Holas" />
@@ -308,19 +312,21 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<a href="/failcon/" class="span2 dev">
+				<div class="span2 hidden-phone"></div>
+				<a href="/failcon/" class="span2 dev visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>GBG #FailCon</h2>
+							<h2>GBG #FailCon (2/2)</h2>
 							<p>Není úspěchu, který by nebyl provázen pády, průšvihy a špatnými rozhodnutími. Několik odvážných a úspěšných lidí se přijde podělit o tuto část své cesty.</p>
 							<span class="room pull-left visible-phone">Gutenberg</span>
 						</div>
 					</div>				
 				</a>
-				<a href="/program/lua-krasa-v-jednoduchosti.html" class="span2 other">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/lua-krasa-v-jednoduchosti.html" class="span2 other visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>František Fuka</h2>
+							<h2>František Fuka (2/2)</h2>
 							<p>Lua: Krása v jednoduchosti</p>
 							<img src="/data/imgs/recnici/frantisek-fuka-small.jpg" width="40" height="40" alt="František Fuka" />
 							<span class="room pull-left visible-phone">Da Vinci</span>
@@ -337,10 +343,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/workshop-restovany-angular-s-mongo-salsou-od-yeomana.html" class="span2 lab">
+				<div class="span2 hidden-phone"></div>
+				<a href="/program/workshop-restovany-angular-s-mongo-salsou-od-yeomana.html" class="span2 lab visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Jan Killian, Tomáš Holas</h2>
+							<h2>Jan Killian, Tomáš Holas (2/2)</h2>
 							<p>RESTovaný Angular s Mongo salsou od Yeomana</p>
 							<img src="/data/imgs/recnici/jan-killian-small.jpg" width="40" height="40" alt="Jan Killian" />
 							<img src="/data/imgs/recnici/tomas-holas-small.jpg" width="40" height="40" alt="Tomáš Holas" />
@@ -374,10 +381,11 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<a href="/fightclub/" class="span2 dev">
+				<div class="span2 hidden-phone"></div>
+				<a href="/fightclub/" class="span2 dev double">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>FightClub</h2>
+							<h2>FightClub<span class="visible-phone"> (1/2)</span></h2>
 							<p>FightClub je realtime soubojem mobilních vývojářů, tři týmy, jedno zadání, 90 minut a 10 úkolů. Víc vám nepovíme, protože o FightClubu se nemluví!</p>
 							<span class="room pull-left visible-phone">Gutenberg</span>
 						</div>
@@ -393,10 +401,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/gugcamp/" class="span2 dev">
+				<div class="span2 hidden-phone"></div>
+				<a href="/gugcamp/" class="span2 dev double double-col-3">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>GUGCamp</h2>
+							<h2>GUGCamp<span class="visible-phone"> (1/2)</span></h2>
 							<p>Přehlídka vašich aplikací s Google technologiemi a vybrání té nejlepší z nich
 							</p>
 							<span class="room pull-left visible-phone">Galilei</span>
@@ -429,10 +438,11 @@ Program
 		</div>
 		<div class="program-item-text span10">
 			<div class="row">
-				<a href="/fightclub/" class="span2 dev">
+				<div class="span2 hidden-phone"></div>
+				<a href="/fightclub/" class="span2 dev visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>FightClub</h2>
+							<h2>FightClub (2/2)</h2>
 							<p>FightClub je realtime soubojem mobilních vývojářů, tři týmy, jedno zadání, 90 minut a 10 úkolů. Víc vám nepovíme, protože o FightClubu se nemluví!</p>
 							<span class="room pull-left visible-phone">Gutenberg</span>
 						</div>
@@ -448,10 +458,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/gugcamp/" class="span2 dev">
+				<div class="span2 hidden-phone"></div>
+				<a href="/gugcamp/" class="span2 dev visible-phone">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>GUGCamp</h2>
+							<h2>GUGCamp (2/2)</h2>
 							<p>Přehlídka vašich aplikací s Google technologiemi a vybrání té nejlepší z nich.
 							</p>
 							<span class="room pull-left visible-phone">Galilei</span>

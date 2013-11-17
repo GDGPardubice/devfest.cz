@@ -822,6 +822,7 @@ footer {
       line-height: 1.2;
       text-align: center;
       color: white;
+      position: relative;
     }
     h2 {
       font-size: 20px;
@@ -898,7 +899,7 @@ footer {
         background: transparent url('../imgs/program-arrow.png') right -188px no-repeat;
         position: relative;
         @media (max-width: 979px) and (min-width: 768px) {
-          background: transparent url('../imgs/program-arrow-tablet.png') right bottom no-repeat;
+          background: transparent url('../imgs/program-arrow-tablet.png') right -250px no-repeat;
         }
       }
       a.span2 {
@@ -919,6 +920,53 @@ footer {
       }
       @media (max-width: 979px) and (min-width: 768px) {
         margin-left: 300px;
+      }
+    }
+    .span2.double {
+      @media (min-width: 768px) {
+        position: absolute;
+        height: 524px;
+        .inside-1 {
+          background-position: left -500px;
+        }
+        .inside-2 {
+          background-position: right -1025px;
+        }
+      }
+      @media (min-width: 980px) {
+        height: 401px;
+        .inside-1 {
+          background-position: left -538px;
+        }
+        .inside-2 {
+          background-position: right -943px;
+        }
+      }
+    }
+    @media (min-width: 768px) {
+      .span2.double.double-col-2 {
+        left: 150px;
+      }
+
+      .span2.double.double-col-3 {
+        left: 300px;
+      }
+
+      .span2.double.double-col-4 {
+        left: 450px;
+      }
+    }
+    @media (min-width: 980px) {
+      .span2.double.double-col-2 {
+        left: 200px;
+      }
+
+      .span2.double.double-col-3 {
+        left: 400px;
+      }
+
+      .span2.double.double-col-4 {
+        left: 600px;
       }
     }
   }
