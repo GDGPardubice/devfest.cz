@@ -274,12 +274,36 @@ title: "O akci"
 				      <h3>Samuel Morihlatko</h3>
 				    </div>
 				</div>
-				<div class="organizator long-name">
+				<div class="organizator">
 					<a href="https://google.com/+EdmundDakoš">
 				      <img src="/data/imgs/organizatori/edmund-dakos.jpg" width="150" height="150" alt="Edmund Dakoš">
 				    </a>
 				    <div class="info">
 				      <h3>Edmund Dakoš</h3>
+				    </div>
+				</div>
+				<div class="organizator">
+					<a href="https://google.com/+JakubHandzuš">
+				      <img src="/data/imgs/organizatori/jakub-handzus.jpg" width="150" height="150" alt="Jakub Handzuš">
+				    </a>
+				    <div class="info">
+				      <h3>Jakub Handzuš</h3>
+				    </div>
+				</div>
+				<div class="organizator">
+					<a href="https://plus.google.com/105175350049388044719/posts">
+				      <img src="/data/imgs/organizatori/lukas-weiss.jpg" width="150" height="150" alt="Lukáš Weiss">
+				    </a>
+				    <div class="info">
+				      <h3>Lukáš Weiss</h3>
+				    </div>
+				</div>
+				<div class="organizator">
+					<a href="https://plus.google.com/+PeterŠpitko/">
+				      <img src="/data/imgs/organizatori/peter-spitko.jpg" width="150" height="150" alt="Peter Špitko">
+				    </a>
+				    <div class="info">
+				      <h3>Peter Špitko</h3>
 				    </div>
 				</div>
 			</div>
