@@ -851,10 +851,13 @@ footer {
       bottom: 10px;
     }
     img {      
-      right: 22px;      
+      right: 17px;      
       -moz-border-radius: 40px;
       -webkit-border-radius: 40px;
       border-radius: 40px;
+    }
+    img:first-child {
+      right: 62px;
     }
     .room {
       left: 45px;
