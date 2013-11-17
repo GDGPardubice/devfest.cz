@@ -416,7 +416,7 @@ Program
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Martin Lána</h2>
-							<p></p>
+							<p>Jak se potkat?</p>
 							<img src="/data/imgs/recnici/martin-lana-small.jpg" width="40" height="40" alt="Martin Lána" />
 							<span class="room pull-left visible-phone">Workshops</span>
 						</div>
