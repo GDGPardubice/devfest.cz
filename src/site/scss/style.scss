@@ -926,9 +926,16 @@ footer {
       }
     }
     .span2.double {
+      img {
+        right: 22px;
+      }
+      img+img {
+        right: 67px
+      }
       @media (min-width: 768px) {
         position: absolute;
         height: 524px;
+        z-index: 9;
         .inside-1 {
           background-position: left -500px;
         }
