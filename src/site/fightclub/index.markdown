@@ -16,10 +16,6 @@ FightClub má vždy jen jednoho vítěze, ale ve FightClubu není hlavní vyhrá
 V každém týmu jsou dva programátoři, jeden notebook a jeden komentátor, který přímo na akci komentuje a podporuje postup svého týmu.
  
 Nejde nám o “aplikace s hezkou grafikou”, mnohem důležitější jsou “aplikace s hezkou funkcionalitou”. Takže součástí týmů nebude grafik. Veškerou vizuální stránku bude mít na starosti samotný OS. **Žádný tým a žádná platforma nebude preferována na úkor ostatních**, sláva bude patřit všem a vítězům zejména.
- 
-Otázka tedy zní - pustíte se neohroženě do boje na ostří kláves?
- 
-<a href="http://goo.gl/tmBqRA" class="btn btn-success btn-large">Registrace týmu</a>
 
 Těšíme se na vás!
 

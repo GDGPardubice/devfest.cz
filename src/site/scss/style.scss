@@ -713,6 +713,13 @@ footer {
     a {
       color: white;
     }
+    p a {
+      color: #08c;
+    }
+    p a:hover {
+      color: #058;
+      text-decoration: underline;
+    }
   }
   div.visible-phone {
     padding-top: 10px;
