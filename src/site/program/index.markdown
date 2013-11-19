@@ -34,7 +34,7 @@ Program
 		</div>
 		<div class="program-item-text span8 cofee">
 			<h2>Registrace</h2>
-			<p>TODO: Prohlédněte si areál, posnídejte na připravte se na prima jízdu</p>
+			<p>Prohlédněte si areál, posnídejte na připravte se na prima jízdu</p>
 		</div>
 	</div>
 	<div class="visible-phone"></div>
@@ -45,8 +45,8 @@ Program
 		<div class="program-item-text span8">
 			<div class="inside-1">
 				<div class="inside-2">
-					<h2>Úvodní keynote (TODO)</h2>
-					<p>TODO: Kde jste se to vlastně ocitli? Proč? A co to znamená?</p>
+					<h2>Úvodní keynote</h2>
+					<p>Tentokrát snad k úrazu nikdo nepřijde.</p>
 				</div>
 			</div>			
 		</div>
@@ -365,7 +365,7 @@ Program
 		</div>
 		<div class="program-item-text span8 cofee">
 			<h2>CakeBreak</h2>
-			<p>TODO: jiiidlo</p>
+			<p>The cake is a lie! Or isn’t it?</p>
 		</div>
 	</div>
 	<div class="visible-phone"></div>
@@ -598,7 +598,7 @@ Program
 			<div class="inside-1">
 				<div class="inside-2">
 					<h2>Závěrečná keynote</h2>
-					<p>TODO: Opravdu už to skončilo? A co bude dál?</p>
+					<p>Už to opravdu skončilo? Nebo to spíš začíná? Dozvíme se...</p>
 				</div>
 			</div>			
 		</div>
@@ -610,7 +610,7 @@ Program
 		</div>
 		<div class="program-item-text span8">
 			<h2>After party</h2>
-			<p>TODO s linkem na hospody, pripadne zvlastni stranka?</p>		
+			<p>20 minut networkingu v <a href="https://www.google.cz/maps/preview#!data=!4m36!3m30!1m5!1zTsOBUk9ETsONIETFrk0gTkEgVklOT0hSQURFQ0gsIE7DoW3Em3N0w60gTcOtcnUgODIwLzksIDEyMCAwMCBQcmFoYQ!2s0x470b948f7aa403e3%3A0xfc1057921d1a3298!3m2!3d50.075629!4d14.437947!1m5!1zU3RyYWhvdnNrw6kgbsOhZHZvxZnDrSAzMDIvMTEsIDExOCAwMCBQcmFoYS1QcmFoYSAx!2s0x470b951af1fc340f%3A0xf0f095c4b6fdce9c!3m2!3d50.087046!4d14.3884485!2e3!3m8!1m3!1d16400!2d14.4126599!3d50.0849283!3m2!1i752!2i615!4f13.1!6m4!1m3!1e4!2e2!3j1385238600!8m2!1e1!2b1!7m4!11m3!1m1!1e1!2b1!6m1!1e1&fid=0i1">GeekTramvají</a> a hodiny zasloužené pohody a zábavy v <a href="http://www.klasternirestaurace.cz/kontakt.html">Klášterní restauraci</a></p>		
 		</div>
 	</div>
 </section>
