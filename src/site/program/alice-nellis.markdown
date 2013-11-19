@@ -14,6 +14,6 @@ title: "GBG FailCon: Alice Nellis"
   </div>
   <div class="span9 talk-info">
     <h1>GBG FailCon</h1>
-    <p>Při sepisování anotace došel v psacím stroji inkoust. Pracujeme na jeho doplnění. Navštivte stránku později.</p>
+    <p>Muzikantka, scénáristka, designérka a především jedna z nejvýraznějších českých režisérek současnosti, to jsou jen některé z charakteristik <strong>Alice Nellis</strong>, která v sobotu rovněž vystoupí na pódium GBG FailConu. Alice se na plátna českých kin dostala již v roce 2000 se svým debutem Ene benne, ale až její druhý celovečerní snímek Výlet se zapsal výrazně do české novodobé kinematografie.</p>
   </div>
 </section>
