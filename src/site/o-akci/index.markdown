@@ -99,11 +99,11 @@ title: "O akci"
 				    </div>
 				</div>
 				<div class="organizator">
-					<a href="https://plus.google.com/112423103657832468811">
-				      <img src="/data/imgs/organizatori/vojta-biberle.jpg" width="150" height="150" alt="Vojta Biberle" />
+					<a href="https://plus.google.com/105548799599235846642">
+				      <img src="/data/imgs/organizatori/jiri-hrdlicka.jpg" width="150" height="150" alt="Jiří Hrdlička" />
 				    </a>
 				    <div class="info">
-				      <h3>Vojta Biberle</h3>
+				      <h3>Jiří Hrdlička</h3>
 				    </div>
 				</div>
 				<div class="organizator long-name">
@@ -240,6 +240,14 @@ title: "O akci"
 				    </a>
 				    <div class="info">
 				      <h3>Milan Kacálek</h3>
+				    </div>
+				</div>
+				<div class="organizator">
+					<a href="https://plus.google.com/112423103657832468811">
+				      <img src="/data/imgs/organizatori/vojta-biberle.jpg" width="150" height="150" alt="Vojta Biberle" />
+				    </a>
+				    <div class="info">
+				      <h3>Vojta Biberle</h3>
 				    </div>
 				</div>
 				<div class="organizator">
