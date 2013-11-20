@@ -243,14 +243,6 @@ title: "O akci"
 				    </div>
 				</div>
 				<div class="organizator">
-					<a href="https://plus.google.com/112423103657832468811">
-				      <img src="/data/imgs/organizatori/vojta-biberle.jpg" width="150" height="150" alt="Vojta Biberle" />
-				    </a>
-				    <div class="info">
-				      <h3>Vojta Biberle</h3>
-				    </div>
-				</div>
-				<div class="organizator">
 					<a href="https://plus.google.com/103969929737869421559">
 				      <img src="/data/imgs/organizatori/roman-jedlicka.jpg" width="150" height="150" alt="Roman Jedlička" />
 				    </a>
