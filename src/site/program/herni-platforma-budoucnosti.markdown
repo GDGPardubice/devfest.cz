@@ -4,7 +4,7 @@ title: "AppEngine jako backend vaší app-ky: Tomáš Zvěřina"
 ---
 
 <section id="speakers" class="row speakers-detail">
-  <div class="speaker web span3 nohover">
+  <div class="speaker other span3 nohover">
     <a href="https://plus.google.com/105785308934677545572/posts">
       <img src="/data/imgs/recnici/igor-stanek.jpg" width="200" height="250" alt="Tomáš Zvěřina">
     </a>
