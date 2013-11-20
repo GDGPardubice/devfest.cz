@@ -84,11 +84,11 @@ Program
 						</div>
 					</div>
 				</a>
-				<a href="/program/" class="span2 other">
+				<a href="/program/herni-platforma-budoucnosti.html" class="span2 other">
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>Igor Stanek</h2>
-							<p></p>						
+							<p>Herní platforma budoucnosti</p>						
 							<img src="/data/imgs/recnici/igor-stanek-small.jpg" width="40" height="40" alt="Igor Stanek" />
 							<span class="room pull-left visible-phone">Galilei</span>
 						</div>

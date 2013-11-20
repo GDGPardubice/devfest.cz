@@ -217,6 +217,15 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       </div>
     </a>   
   </div>
+  <div class="speaker other">
+    <a href="/program/herni-platforma-budoucnosti.html">
+      <img src="/data/imgs/recnici/igor-stanek.jpg" width="200" height="250" alt="Igor Stanek">
+      <div class="info">
+        <h2>Igor Stanek</h2>
+        <h3>Herní platforma budoucnosti</h3>
+      </div>
+    </a>   
+  </div>
 </section>
 <div class="clear"></div>
 
