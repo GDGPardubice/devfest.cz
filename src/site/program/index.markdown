@@ -67,7 +67,7 @@ Program
 				<a href="/program/how-i-learned-to-love-the-datastore.html" class="span2 other">
 					<div class="inside-1">
 						<div class="inside-2">
-							<h2>Danut Enochioiu</h2>
+							<h2>Danut Enachioiu</h2>
 							<p>How I Learned to Love the Datastore</p>
 							<img src="/data/imgs/recnici/danut-enachioiu-small.jpg" width="40" height="40" alt="Danut Enochioiu" />
 							<span class="room pull-left visible-phone">Gutenberg</span>
@@ -386,7 +386,7 @@ Program
 					<div class="inside-1">
 						<div class="inside-2">
 							<h2>FightClub<span class="visible-phone"> (1/2)</span></h2>
-							<p>FightClub je realtime soubojem mobilních vývojářů, tři týmy, jedno zadání, 90 minut a 10 úkolů. Víc vám nepovíme, protože o FightClubu se nemluví!</p>
+							<p>FightClub je realtime soubojem mobilních vývojářů, dva týmy, jedno zadání, 50 minut a 5 úkolů. Víc vám nepovíme, protože o FightClubu se nemluví!</p>
 							<span class="room pull-left visible-phone">Gutenberg</span>
 						</div>
 					</div>				
