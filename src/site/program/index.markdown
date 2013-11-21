@@ -34,7 +34,7 @@ Program
 		</div>
 		<div class="program-item-text span8 cofee">
 			<h2>Registrace</h2>
-			<p>Prohlédněte si areál, posnídejte na připravte se na prima jízdu</p>
+			<p>Prohlédněte si areál, posnídejte a připravte se na prima jízdu</p>
 		</div>
 	</div>
 	<div class="visible-phone"></div>
