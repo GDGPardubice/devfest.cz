@@ -428,7 +428,7 @@ Program
 	<div class="visible-phone"></div>
 	<div class="program-item row blocks">
 		<div class="program-item-time span2">
-			<span class="time">17:25</span>
+			<span class="time">17:20</span>
 			<div class="border">
 				<span class="blue"></span>
 				<span class="red"></span>
