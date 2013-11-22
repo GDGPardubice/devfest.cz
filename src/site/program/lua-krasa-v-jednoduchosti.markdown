@@ -15,5 +15,6 @@ title: "Lua: Krása v jednoduchosti - František Fuka"
   <div class="span9 talk-info">
     <h1>Lua: Krása v jednoduchosti</h1>
     <p>Pravděpodobně už jste se s Luou setkali, ale možná o tom ani nevíte. Není to jen "další programovací jazyk", ale spíše pár jednoduchých kusů skládačky, ze kterých si poměrně revolučním způsobem můžete sestavit libovolně složitý systém podle svého gusta. A pak v něm velmi rychle a dokonce zábavně vyvíjet téměř cokoliv.</p>
+    <p><em>Místnost: Da Vinci, 14:30 - 16:00 (90 min).</em></p>
   </div>
 </section>

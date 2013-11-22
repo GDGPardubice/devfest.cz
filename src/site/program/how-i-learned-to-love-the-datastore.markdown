@@ -15,5 +15,6 @@ title: "How I Learned to Love the Datastore: Danut Enachioiu"
   <div class="span9 talk-info">
     <h1>How I Learned to Love the Datastore</h1>
     <p>Google's Datastore - one of the best known examples of NoSQL databases - can come off as surprising, capricious or even frustrating, especially when you're used to relational databases. But it can also be amazing, powerful and liberating. Danut's tips, stories and explanations will help you take a shortcut on this journey and use the Datastore's power for your projects.</p>
+    <p><em>Místnost: Gutenberg, 10:35 - 11:20 (45 min).</em></p>
   </div>
 </section>

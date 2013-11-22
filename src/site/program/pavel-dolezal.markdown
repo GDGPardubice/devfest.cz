@@ -14,7 +14,7 @@ title: "GBG FailCon: Pavel Doležal"
   </div>
   <div class="span9 talk-info">
     <h1>GBG FailCon</h1>
-    <p>Investor, vizionář, jeden z otců současné podoby internetu v ČR, to jsou jen některá z označení <strong>Pavla Doležala</strong>, zakladatele Ataxo a jednoho z duchovních otců Atlas.cz. Nahlédněte s námi do zákulisí jednotlivých vzestupů i tvrdých pádů, které jej v životě provázely. Třeba odhalíte, co i vám pomůže vždy vstát a zkoušet to dál, až do úspěšného konce.
-</p>
+    <p>Investor, vizionář, jeden z otců současné podoby internetu v ČR, to jsou jen některá z označení <strong>Pavla Doležala</strong>, zakladatele Ataxo a jednoho z duchovních otců Atlas.cz. Nahlédněte s námi do zákulisí jednotlivých vzestupů i tvrdých pádů, které jej v životě provázely. Třeba odhalíte, co i vám pomůže vždy vstát a zkoušet to dál, až do úspěšného konce.</p>
+    <p><em>Místnost: Gutenberg.</em></p>
   </div>
 </section>

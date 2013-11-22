@@ -24,5 +24,6 @@ title: "Workshop: RESTovaný Angular s Mongo salsou od Yeomana - Jan Killian, To
     <h1>Workshop: RESTovaný Angular s Mongo salsou od Yeomana</h1>
     <p>Při sepisování anotace došel v psacím stroji inkoust. Pracujeme na jeho doplnění. Navštivte stránku později.</p>
     <p><strong>Na workshop je potřeba vlastní PC.</strong></p>
+    <p><em>Místnost: Workshops, 14:30 - 15:30 (60 min).</em></p>
   </div>
 </section>

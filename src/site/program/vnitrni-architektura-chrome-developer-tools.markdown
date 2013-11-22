@@ -15,5 +15,6 @@ title: "Vnitřní architektura Chrome Developer Tools: Miroslav Bajtoš"
   <div class="span9 talk-info">
     <h1>Vnitřní architektura Chrome Developer Tools</h1>
     <p>V přednášce se dozvíte, že Chrome Developer Tools je vlastně (ne)obyčejná webová stránka, každý Blink prohlížeč má v sobě zabudovaný WebSocket server a díky tomu lze použít Developer Tools pro debugování Node.js aplikací. Zároveň uvidíte, jak to všechno uvnitř funguje.</p>
+    <p><em>Místnost: Da Vinci, 17:20 - 18:05 (45 min).</em></p>
   </div>
 </section>

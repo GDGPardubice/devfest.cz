@@ -15,5 +15,6 @@ title: "GBG FailCon: Eduard Kučera"
   <div class="span9 talk-info">
     <h1>GBG FailCon</h1>
     <p><strong>Eduard Kučera</strong> se do historie internetové bezpečnosti nesmazatelně zapsal již v roce 2002 s vypuštěním free verze populárního programu avast!. Ten v současnosti využívá přes 200 milionů uživatelů po celém světě. Jeho životní příběh ale zdaleka nekončí na virtuálním bojišti rezidentních štítů a ochran. Jaké faily prožil podnikatel roku 2009, jehož moto zní „Kdo neriskuje, nevydělává“, si můžete na vlastní uši vyslechnout 23. listopadu.</p>
+    <p><em>Místnost: Gutenberg.</em></p>
   </div>
 </section>

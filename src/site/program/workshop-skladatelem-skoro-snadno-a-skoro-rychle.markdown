@@ -15,5 +15,6 @@ title: "Workshop: Skladatelem skoro snadno a skoro rychle - František Fuka"
   <div class="span9 talk-info">
     <h1>Workshop: Skladatelem skoro snadno a skoro rychle</h1>
     <p>Workshop, který úzce navazuje na loňskou přednášku "Jak funguje hudební harmonie a jak skládat hudbu z geekovsko-matematického hlediska". Pokud jste loňskou přednášku viděli (což je nezbytné, ať už naživo nebo ze záznamu) a pochopili, máte možnost dozvědět se víc, pokládat další dotazy a zkusit si sami něco zahrát / složit. Vlastní hudební nástroje vítány. Členům Globálního hudebního spiknutí účast zakázána (nebo aspoň musejí zůstat zticha)!</p>
+    <p><em>Místnost: Workshops, 17:20 - 19:20 (120 min).</em></p>
   </div>
 </section>

@@ -15,5 +15,6 @@ title: "X-Wow-Security-Header: Michal Špaček"
   <div class="span9 talk-info">
     <h1>X-Wow-Security-Header</h1>
     <p>Znáte nějaké HTTP hlavičky? Asi znáte, že. A víte, že některé ty hlavičky dělají Internet a webové aplikace bezpečnějším místem na Zemi? Pravděpodobně to tušíte. A kolik jich znáte? Všechny, jo? Paráda, takže to budu muset asi vymyslet nějaké jiné téma.</p>
+    <p><em>Místnost: Gutenberg, 13:30 - 14:15 (45 min).</em></p>
   </div>
 </section>

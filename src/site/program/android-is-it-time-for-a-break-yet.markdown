@@ -15,5 +15,6 @@ title: "Android - is it time for a break yet?: Wojtek Kaliciński"
   <div class="span9 talk-info">
     <h1>Android - is it time for a break yet?</h1>
     <p>KitKat, a new Android version has just been released. It's a second point release (4.3 i 4.4) this year, but many applications out on the market still live in the 4.0 and even 2.x era. During this session, we will look at what's new in Android including the core framework, Google's support libraries and programmer tools, which can help you take your app to the next level.</p>
+    <p><em>Místnost: Gutenberg, 11:35 - 12:20 (45 min).</em></p>
   </div>
 </section>

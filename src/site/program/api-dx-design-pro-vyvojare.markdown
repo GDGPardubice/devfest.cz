@@ -15,5 +15,6 @@ title: "API & DX: Design pro vývojáře: Jakub Nešetřil"
   <div class="span9 talk-info">
     <h1>API & DX: Design pro vývojáře</h1>
     <p>O tom, jak designovat pro vývojáře (a jak moc je to důležité), o tom, že ne všichni vývojáři jsou stejní a o tom že API je rozhraní mezi lidmi—ne mezi počítači.</p>
+    <p><em>Místnost: Gutenberg, 19:15 - 20:00 (45 min).</em></p>
   </div>
 </section>

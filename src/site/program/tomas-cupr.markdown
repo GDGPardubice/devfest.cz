@@ -15,5 +15,6 @@ title: "GBG FailCon: Tomáš Čupr"
   <div class="span9 talk-info">
     <h1>GBG FailCon</h1>
     <p><strong>Tomáš Čupr</strong> je bezesporu jeden z nejvýraznějších českých internetových podnikatelů současnosti. Ať už je řeč o jeho nejznámějším výtvoru v podobě Slevomatu, případně jeho novějším projektu Dáme jídlo, vždy jsou s diskuzí spojené velké emoce a nemalá míra kontroverze. I tento český Mark Zuckerberg se při cestě za nebývalým úspěchem setkal s nejedním životním failem a na GBG Failconu máte jedinečnou příležitost vyslechnout si tento příběh v jeho osobním podání.</p>
+    <p><em>Místnost: Gutenberg.</em></p>
   </div>
 </section>

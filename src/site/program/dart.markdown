@@ -15,5 +15,6 @@ title: "Dart: Filip Hráček"
   <div class="span9 talk-info">
     <h1>Dart 1.0</h1>
     <p>Rychloúvod do Dartu. Průvod jazykem, knihovnami a IDE. Na co byste měli, a na co byste naopak neměli používat Dart. Co znamení Dart pro web jako takový?</p>
+    <p><em>Místnost: Gutenberg, 18:15 - 19:00 (45 min).</em></p>
   </div>
 </section>

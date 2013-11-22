@@ -15,5 +15,6 @@ title: "Automatizace a vývoj aplikací v Google Apps Scripts: Ivan Kutil"
   <div class="span9 talk-info">
     <h1>Automatizace a vývoj aplikací v Google Apps Scripts</h1>
     <p>Google Apps Scripts je platforma pro tvorbu a provoz nejen firemních aplikací využívající Google API. Skripty můžete používat v Google Tabulkách, Webech Google, využívat je jako spouštěče (CRON) nebo prezentovat jako webové aplikace s vlastním uživatelským rozhraním. Pojďte se podívat jak začít, jaké jsou omezení a co vše je možné pomocí skriptů vytvořit.</p>
+    <p><em>Místnost: Galilei, 11:35 - 12:20 (45 min).</em></p>
   </div>
 </section>

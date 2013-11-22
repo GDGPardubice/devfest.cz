@@ -14,7 +14,7 @@ title: "GBG FailCon: Milan Cais"
   </div>
   <div class="span9 talk-info">
     <h1>GBG FailCon</h1>
-    <p><strong>Milan Cais</strong> je v mnoha ohledech renesanční člověk a jedna z klíčových osobností současné hudební a výtvarné kultury. V letošním roce oslavil společně s kapelou Tata Bojs 20 výročí existence, během kterých dokázali nahrát již 15 alb, natočit 2 DVD, vydat 1 knihu). O tom, že hudba v Milanově životě nekončí na prahu studia či koncertního pódia se můžete přesvědčit na vlastní ruce/oči také v rámci některé z interaktivních výstav (aktuálně například Vikýře PLAY v Malostranské besedě), na jejichž realizaci se rovněž podílí.
-</p>
+    <p><strong>Milan Cais</strong> je v mnoha ohledech renesanční člověk a jedna z klíčových osobností současné hudební a výtvarné kultury. V letošním roce oslavil společně s kapelou Tata Bojs 20 výročí existence, během kterých dokázali nahrát již 15 alb, natočit 2 DVD, vydat 1 knihu). O tom, že hudba v Milanově životě nekončí na prahu studia či koncertního pódia se můžete přesvědčit na vlastní ruce/oči také v rámci některé z interaktivních výstav (aktuálně například Vikýře PLAY v Malostranské besedě), na jejichž realizaci se rovněž podílí.</p>
+    <p><em>Místnost: Gutenberg.</em></p>
   </div>
 </section>

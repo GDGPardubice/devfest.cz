@@ -15,5 +15,6 @@ title: "Jak chytré jsou Chrome DevTools: Robin Pokorný"
   <div class="span9 talk-info">
     <h1>Jak chytré jsou Chrome DevTools</h1>
     <p>Prohlížeč je jedním z nejlépe vybavených vývojových nástrojů. Procházení DOMu, prohlížení CSS a čtení chybových hlášek JavaScriptu je jen základ. Chrome DevTools toho umí mnohem více. Dokáží výrazně zrychlit a zjednodušit práci na front-endu. Často mě překvapí, jak jsou chytré. Podělím se o tipy a postupy, které jsem objevil a které mi usnadňují život. Poodkryji, na co se těšit v dalších verzích.</p>
+    <p><em>Místnost: Da Vinci, 16:25 - 17:10 (45 min).</em></p>
   </div>
 </section>

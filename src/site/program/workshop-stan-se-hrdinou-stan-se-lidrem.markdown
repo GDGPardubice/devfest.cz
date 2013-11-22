@@ -19,5 +19,6 @@ title: "Workshop: Staň se hrdinou, staň se lídrem - Jiří Bréda"
     <p>Jaká zásadní vlastnost z Tebe udělá lídra, který je následován ostatními?</p>
     <p>Toto všechno bude součástí interaktivního workshopu s názvem "Staň se hrdinou, staň se lídrem". Během workshopu budeme v týmech pracovat s modelovými situacemi z hraní her. Využijeme Vaše herní strategie při řešení otázky vedení lidí. Odnesete si informaci, která Vám může změnit život, a dostanete od týmu Mise HERo jeden malý, neviditelně viditelný dárek, kterého se možná budete chtít zbavit.</p>
     <p>Máte kuráž? Tak přijďte ;-)</p>
+    <p><em>Místnost: Workshops, 11:35 - 13:35 (120 min).</em></p>
   </div>
 </section>

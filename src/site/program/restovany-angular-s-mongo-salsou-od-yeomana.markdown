@@ -23,5 +23,6 @@ title: "RESTovaný Angular s Mongo salsou od Yeomana: Jan Killian, Tomáš Holas
   <div class="span6 talk-info">
     <h1>RESTovaný Angular s Mongo salsou od Yeomana</h1>
     <p>Připravíme si Node.js a MongoDB. U Yeomana si vybereme ingredience pro AngularJS a Express.js salsu. Datový model si připravíme v MonGoose a propojíme přes RestAngular. Po 20 minutách servírujeme hotovou aplikaci např. z Heroku.</p>
+    <p><em>Místnost: Da Vinci, 12:30 - 13:15 (45 min).</em></p>
   </div>
 </section>

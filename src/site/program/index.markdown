@@ -45,7 +45,7 @@ Program
 		<div class="program-item-text span8">
 			<div class="inside-1">
 				<div class="inside-2">
-					<h2>Úvodní keynote</h2>
+					<h2>Úvodní keynote (Gutenberg)</h2>
 					<p>Tentokrát snad k úrazu nikdo nepřijde.</p>
 				</div>
 			</div>			
@@ -597,7 +597,7 @@ Program
 		<div class="program-item-text span8">
 			<div class="inside-1">
 				<div class="inside-2">
-					<h2>Závěrečná keynote</h2>
+					<h2>Závěrečná keynote (Gutenberg)</h2>
 					<p>Už to opravdu skončilo? Nebo to spíš začíná? Dozvíme se...</p>
 				</div>
 			</div>			

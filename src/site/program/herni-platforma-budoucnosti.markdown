@@ -15,5 +15,6 @@ title: "AppEngine jako backend vaší app-ky: Tomáš Zvěřina"
   <div class="span9 talk-info">
     <h1>Herní platforma budoucnosti</h1>
     <p>Dokáže váš mobilní telefon nebo tablet nahradit v budoucnosti plnohodnotně dnešní konzole nebo PC? Uděláme si malou exkurzi do budoucnosti.</p>
+    <p><em>Místnost: Galilei, 10:35 - 11:20 (45 min).</em></p>
   </div>
 </section>

@@ -15,5 +15,6 @@ title: "Poznej svůj runtime systém: Marcel Hlopko"
   <div class="span9 talk-info">
     <h1>Poznej svůj runtime systém</h1>
     <p>Pragmatický pohled na to nejzajímavější z technologií runtime systémů aneb co pro nás runtime systémy dělají a měli bychom vědět.</p>
+    <p><em>Místnost: Da Vinci, 11:35 - 12:20 (45 min).</em></p>
   </div>
 </section>

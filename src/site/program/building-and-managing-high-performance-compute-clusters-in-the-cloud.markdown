@@ -23,5 +23,6 @@ title: "Building and Managing High Performance Compute Clusters in the Cloud: Ma
   <div class="span6 talk-info">
     <h1>Building and Managing High Performance Compute Clusters in the Cloud</h1>
     <p>Google Compute Engine offers everyone the ability to create their own clusters using the same computing, storage, and networking resources that power Google’s services. This session covers techniques and tools for building and managing high performance, scalable, and resilient compute clusters in the Google Cloud. With an emphasis on code examples and demos, we’ll illustrate cluster management patterns and best practices, along with some unique capabilities Compute Engine brings to the table.</p>
+    <p><em>Místnost: Da Vinci, 18:15 - 19:00 (45 min).</em></p>
   </div>
 </section>

@@ -15,5 +15,6 @@ title: "Mimpi - case study vývoje mobilní hry pro Android v Unity 3D: Martin V
   <div class="span9 talk-info">
     <h1>Mimpi - case study vývoje mobilní hry pro Android v Unity 3D</h1>
     <p>Povím vám něco o vývoji her v Unity3D pro Android, a to na základě zkušeností s vývojem hry Mimpi. Budu mluvit o herním marketingu a problému originalita vs. ověřené koncepty, o tom, jak udělat hru na základě ilustrace, jak se tvoří 2D grafika s pomocí 3D geometrie a jaké jsou s tím problémy, zejména v oblasti herního designu. Nakonec zabrousím do malinko techničtějších věcí z oblasti optimalizace pro Android.</p>
+    <p><em>Místnost: Galilei, 12:30 - 13:00 (30 min).</em></p>
   </div>
 </section>

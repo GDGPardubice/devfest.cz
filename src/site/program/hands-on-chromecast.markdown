@@ -24,5 +24,6 @@ title: "Hands on Chromecast: Marek Sebera, Petr Nálevka"
     <h1>Hands on Chromecast</h1>
     <p>Anotace: “Na co se těšit a čeho se bát”</p>
     <p>Outline: “Jak se Chromecast projekt zamýšelel a jak se povedl zrealizovat? Architektura a aktuální problémy z pohledu vývojáře i byznysu. S možností vyzkoušet si práci s Chromecast technologií po většinu času přednášky”</p>
+    <p><em>Místnost: Galilei, 19:15 - 20:00 (45 min).</em></p>
   </div>
 </section>
