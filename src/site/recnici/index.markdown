@@ -15,7 +15,7 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       <img src="/data/imgs/recnici/filip-hracek.jpg" width="200" height="250" alt="Filip Hráček" />
       <div class="info">
         <h2>Filip Hráček</h2>
-        <h3>Dart</h3>
+        <h3>Dart 1.0</h3>
       </div>
     </a>
   </div>
@@ -29,10 +29,11 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>
   </div>
   <div class="speaker other">
-    <a href="/program/michal-spacek.html">
+    <a href="/program/x-wow-security-header.html">
       <img src="/data/imgs/recnici/michal-spacek.jpg" width="200" height="250" alt="Michal Špaček" />
       <div class="info">
         <h2>Michal Špaček</h2>
+        <h3>X-Wow-Security-Header</h3>
       </div>
     </a>
   </div>
@@ -46,18 +47,20 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
     </a>
   </div>
   <div class="speaker other">
-    <a href="/program/danut-enachioiu.html">
+    <a href="/program/how-i-learned-to-love-the-datastore.html">
       <img src="/data/imgs/recnici/danut-enachioiu.jpg" width="200" height="250" alt="Danut Enachioiu">
       <div class="info">
         <h2>Danut Enachioiu</h2>
+        <h3>How I Learned to Love the Datastore</h3>
       </div>
     </a>
   </div>
   <div class="speaker web">
-    <a href="/program/robin-pokorny.html">
+    <a href="/program/jak-chytre-jsou-chrome-devtools.html">
       <img src="/data/imgs/recnici/robin-pokorny.jpg" width="200" height="250" alt="Robin Pokorný">
       <div class="info">
         <h2>Robin Pokorný</h2>
+        <h3>Jak chytré jsou Chrome DevTools</h3>
       </div>
     </a>
   </div>
@@ -205,6 +208,24 @@ Seznam potvrzených speakerů se neustále rozšiřuje. Určitě se sem zajděte
       </div>
     </a>   
   </div>
+  <div class="speaker web">
+    <a href="/program/automatizace-a-vyvoj-aplikaci-v-google-apps-scripts.html">
+      <img src="/data/imgs/recnici/ivan-kutil.jpg" width="200" height="250" alt="Ivan Kutil">
+      <div class="info">
+        <h2>Ivan Kutil</h2>
+        <h3>Automatizace a vývoj aplikací v Google Apps Scripts</h3>
+      </div>
+    </a>   
+  </div>
+  <div class="speaker other">
+    <a href="/program/herni-platforma-budoucnosti.html">
+      <img src="/data/imgs/recnici/igor-stanek.jpg" width="200" height="250" alt="Igor Stanek">
+      <div class="info">
+        <h2>Igor Stanek</h2>
+        <h3>Herní platforma budoucnosti</h3>
+      </div>
+    </a>   
+  </div>
 </section>
 <div class="clear"></div>
 
@@ -240,11 +261,23 @@ GBG Failcon na DevFestu Praha 2013
     </a>       
   </div>
   <div class="speaker failcon">
-    <img src="/data/imgs/recnici/no-name.jpg" width="200" height="250" alt="?" />
-  </div> 
+    <a href="/program/alice-nellis.html">
+      <img src="/data/imgs/recnici/alice-nellis.jpg" width="200" height="250" alt="Alice Nellis" />
+      <div class="info">
+        <h2>Alice Nellis</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>       
+  </div>
   <div class="speaker failcon">
-    <img src="/data/imgs/recnici/no-name.jpg" width="200" height="250" alt="?" />
-  </div>  
+    <a href="/program/milan-cais.html">
+      <img src="/data/imgs/recnici/milan-cais.jpg" width="200" height="250" alt="Milan Cais" />
+      <div class="info">
+        <h2>Milan Cais</h2>
+        <h3>GBG FailCon</h3>
+      </div>
+    </a>       
+  </div> 
 </section>
 <div class="clear"></div>
 
@@ -285,6 +318,15 @@ Workshopy na DevFestu Praha 2013
       <div class="info">
         <h2>Tomáš Holas</h2>
         <h3>Workshop: RESTovaný Angular s Mongo salsou od Yeomana</h3>
+      </div>
+    </a>  
+  </div>
+  <div class="speaker lab">
+    <a href="/program/talk-jak-se-potkat.html">
+      <img src="/data/imgs/recnici/martin-lana.jpg" width="200" height="250" alt="Martin Lána">
+      <div class="info">
+        <h2>Martin Lána</h2>
+        <h3>Talk: Jak se potkat?</h3>
       </div>
     </a>  
   </div>

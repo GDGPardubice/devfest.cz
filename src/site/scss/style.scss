@@ -710,6 +710,16 @@ footer {
     @media (min-width: 768px) {
       margin-bottom: 25px;
     }
+    a {
+      color: white;
+    }
+    p a {
+      color: #08c;
+    }
+    p a:hover {
+      color: #058;
+      text-decoration: underline;
+    }
   }
   div.visible-phone {
     padding-top: 10px;
@@ -819,6 +829,7 @@ footer {
       line-height: 1.2;
       text-align: center;
       color: white;
+      position: relative;
     }
     h2 {
       font-size: 20px;
@@ -848,10 +859,13 @@ footer {
       bottom: 10px;
     }
     img {      
-      right: 22px;      
+      right: 17px;      
       -moz-border-radius: 40px;
       -webkit-border-radius: 40px;
       border-radius: 40px;
+    }
+    img + img {
+      right: 62px;
     }
     .room {
       left: 45px;
@@ -877,6 +891,7 @@ footer {
     }
     .span2 {
       height: 188px;
+      display: block;     
       @media (max-width: 979px) and (min-width: 768px) {
         height: 250px;
       }
@@ -894,8 +909,11 @@ footer {
         background: transparent url('../imgs/program-arrow.png') right -188px no-repeat;
         position: relative;
         @media (max-width: 979px) and (min-width: 768px) {
-          background: transparent url('../imgs/program-arrow-tablet.png') right bottom no-repeat;
+          background: transparent url('../imgs/program-arrow-tablet.png') right -250px no-repeat;
         }
+      }
+      a.span2 {
+        color: white;
       }
     }
     .span2.offset2 {
@@ -912,6 +930,60 @@ footer {
       }
       @media (max-width: 979px) and (min-width: 768px) {
         margin-left: 300px;
+      }
+    }
+    .span2.double {
+      img {
+        right: 22px;
+      }
+      img+img {
+        right: 67px
+      }
+      @media (min-width: 768px) {
+        position: absolute;
+        height: 524px;
+        z-index: 9;
+        .inside-1 {
+          background-position: left -500px;
+        }
+        .inside-2 {
+          background-position: right -1024px;
+        }
+      }
+      @media (min-width: 980px) {
+        height: 401px;
+        .inside-1 {
+          background-position: left -537px;
+        }
+        .inside-2 {
+          background-position: right -938px;
+        }
+      }
+    }
+    @media (min-width: 768px) {
+      .span2.double.double-col-2 {
+        left: 150px;
+      }
+
+      .span2.double.double-col-3 {
+        left: 300px;
+      }
+
+      .span2.double.double-col-4 {
+        left: 450px;
+      }
+    }
+    @media (min-width: 980px) {
+      .span2.double.double-col-2 {
+        left: 200px;
+      }
+
+      .span2.double.double-col-3 {
+        left: 400px;
+      }
+
+      .span2.double.double-col-4 {
+        left: 600px;
       }
     }
   }
